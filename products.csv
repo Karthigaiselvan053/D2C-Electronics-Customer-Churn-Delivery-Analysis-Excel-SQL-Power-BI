@@ -1,0 +1,13 @@
+product_id,product_name,category,price,cost
+PRD001,Wireless Earbuds Pro,Audio,2499,900
+PRD002,Smartphone 128GB,Mobile,14999,10500
+PRD003,"15.6"" Laptop i5",Computing,42999,32000
+PRD004,Smartwatch Series X,Wearables,3499,1600
+PRD005,Bluetooth Speaker Mini,Audio,1799,700
+PRD006,20000mAh Power Bank,Accessories,1299,500
+PRD007,Wireless Gaming Mouse,Accessories,999,350
+PRD008,Mechanical Keyboard RGB,Computing,2999,1100
+PRD009,"43"" Smart LED TV",Home Entertainment,24999,18000
+PRD010,Dual-Band Wi-Fi Router,Networking,1999,800
+PRD011,"10.1"" Android Tablet",Mobile,9999,6800
+PRD012,Fitness Band Lite,Wearables,1499,550

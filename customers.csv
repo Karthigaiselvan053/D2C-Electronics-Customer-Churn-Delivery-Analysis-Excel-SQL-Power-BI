@@ -1,0 +1,1226 @@
+customer_id,name,email,city,signup_date,gender,age,referral_source
+CUST00001,Anvi Konda,liamchaudry@example.net,Mumbai,16-12-2025,Other,26.0,Email
+CUST00002,Pahal Balay,chandertejas@example.org,Jaipur,27-02-2026,,23.0,Google Ads
+CUST00003,Rushil Saini,saumyamall@example.org,Lucknow,10-09-2025,F,,Google Ads
+CUST00004,Pahal Oak,nachiket35@example.org,Lucknow,12/03/2026,M,,Referral
+CUST00005,Jagrati Padmanabhan,caleb78@example.org,Delhi,17/11/2024,Other,42.0,Referral
+CUST00006,Farhan Memon,rehaan10@example.net,Lucknow,13/08/2026,M,52.0,Organic Search
+CUST00007,Fariq Kaul,raiarunima@example.com,Jaipur,2025-02-23,Other,22.0,Email
+CUST00008,Nicholas Prabhakar,shaurya41@example.net,Pune,2025-12-13,,,Referral
+CUST00009,Nihal Shere,omadan@example.net,Chennai,13/12/2025,Other,35.0,Influencer
+CUST00010,Daksh Karnik,muttinandini@example.com,Delhi,18-10-2025,F,,Email
+CUST00011,Simon Tata,jshanker@example.com,Jaipur,29-10-2024,Other,21.0,Instagram Ads
+CUST00012,Priya Rastogi,theodore28@example.com,Kolkata,21/12/2024,F,,Influencer
+CUST00013,Imaran Dua,pahalbhatt@example.com,Chennai,16-11-2024,,,Google Ads
+CUST00014,Zayan Apte,yadavamara@example.net,Delhi,13/06/2025,Other,,Referral
+CUST00015,Radhika Dugar,uaggarwal@example.net,Delhi,2025-05-14,M,25.0,Email
+CUST00016,Yashica Cherian,yashica93@example.org,Kolkata,2025-03-20,,,Influencer
+CUST00017,Aadi Naik,hbahl@example.com,Mumbai,2025-06-08,Other,39.0,Referral
+CUST00018,Wriddhish Bhardwaj,farhanchada@example.net,Delhi,06/06/2026,Other,,Google Ads
+CUST00019,Jeremiah Dave,qgandhi@example.net,Mumbai,27-08-2025,Other,50.0,Google Ads
+CUST00020,Siddharth Zacharia,devikarastogi@example.net,Delhi,02/06/2026,M,49.0,Instagram Ads
+CUST00021,Zansi Seth,kotaumang@example.org,Pune,23/12/2025,F,23.0,Email
+CUST00022,Thomas Amble,bhargavaveer@example.org,Mumbai,13/05/2025,,26.0,Email
+CUST00023,Ekavir Varkey,aryasunder@example.org,Jaipur,25/06/2026,,,Influencer
+CUST00024,Xavier Solanki,ggupta@example.org,Hyderabad,05-10-2025,,,Email
+CUST00025,Pallavi Roy,rbhagat@example.net,Ahmedabad,30/12/2025,,32.0,Referral
+CUST00026,Darsh Rau,ikbal33@example.org,Lucknow,2026-08-21,F,58.0,Google Ads
+CUST00027,Pahal Goswami,turvi31@example.com,Bengaluru,2025-10-03,M,,Google Ads
+CUST00028,Chandresh Zachariah,chanderwarjas@example.org,Delhi,16-04-2026,,,Google Ads
+CUST00029,Tanay Rattan,galaladli@example.org,Mumbai,2025-07-01,Other,47.0,Email
+CUST00030,Suhani Mangal,jsur@example.org,Mumbai,22-08-2026,Other,24.0,Google Ads
+CUST00031,Darsh Murthy,bedivansha@example.net,Jaipur,2025-04-13,,47.0,Instagram Ads
+CUST00032,Dakshesh Trivedi,grewalekapad@example.net,Jaipur,05/07/2026,M,,Google Ads
+CUST00033,Netra Dar,balveerbumb@example.com,Kolkata,2024-10-30,F,21.0,Organic Search
+CUST00034,Advika Jayaraman,william46@example.org,Kolkata,2025-12-29,,,Google Ads
+CUST00035,Tanvi Mutti,andratara@example.net,Pune,2026-01-08,M,52.0,Email
+CUST00036,Ethan Yogi,yashawinilanka@example.org,Bengaluru,31/08/2026,,51.0,Instagram Ads
+CUST00037,Yash Pingle,nakul78@example.net,Mumbai,15-07-2026,M,,Instagram Ads
+CUST00038,Chandani Chawla,aishanidalia@example.org,Hyderabad,17-04-2025,M,,Referral
+CUST00039,Anita Manda,hemaljani@example.net,Chennai,2026-02-28,,,Organic Search
+CUST00040,Yashasvi Suresh,charan16@example.com,Mumbai,12/12/2025,M,,Google Ads
+CUST00041,Kalpit Lala,riyasane@example.net,Mumbai,13/10/2024,Other,,Influencer
+CUST00042,Manthan Banik,manbir62@example.org,Jaipur,18-09-2024,Other,,Instagram Ads
+CUST00043,Ishita Kade,harshilpandya@example.net,Pune,2025-04-21,M,,Referral
+CUST00044,Mohammed Khalsa,petersachar@example.org,Hyderabad,10-06-2026,F,,Referral
+CUST00045,Nisha Kothari,nathaniel16@example.org,Mumbai,2025-01-19,Other,39.0,Email
+CUST00046,Ryan Sharma,dalaja33@example.org,Delhi,23/05/2026,,25.0,Email
+CUST00047,Falguni Mallick,mallickindali@example.net,Jaipur,2025-12-31,Other,,Google Ads
+CUST00048,Ayaan D’Alia,pranav94@example.org,Pune,2025-09-13,M,31.0,Email
+CUST00049,Hemani Murthy,hvaidya@example.com,Chennai,2024-11-29,,,Email
+CUST00050,Aachal Basu, ,Hyderabad,2026-06-21,F,19.0,Email
+CUST00051,Januja Sankar,narayanandipta@example.net,Kolkata,19/01/2026,F,,Instagram Ads
+CUST00052,Yashica More,znarain@example.net,Hyderabad,15/05/2026,,32.0,Instagram Ads
+CUST00053,Rehaan Salvi,nghosh@example.net,Hyderabad,12-04-2025,Other,,Email
+CUST00054,Daksha Mangat,qushinagy@example.com,Kolkata,16-04-2025,Other,,Instagram Ads
+CUST00055,Yasti Solanki,fradomander@example.net,Delhi,27/07/2025,Other,,Referral
+CUST00056,Girik Keer,umang32@example.org,Chennai,02-01-2026,M,54.0,Referral
+CUST00057,Elijah Shah,thayer@example.net,Kolkata,2024-10-15,F,,Influencer
+CUST00058,Yagnesh Divan,chhabrapavani@example.org,Mumbai,15/06/2025,Other,,Referral
+CUST00059,Chandresh Krish,shankiaan@example.com,Pune,16/01/2025,F,42.0,Influencer
+CUST00060,Saanvi Thaman,ksehgal@example.net,Pune,05-01-2026,M,,Influencer
+CUST00061,Aashi Kota,vedhika34@example.com,Chennai,25-05-2026,,,Email
+CUST00062,Wahab Magar,ekaja81@example.org,Mumbai,2024-11-06,Other,,Google Ads
+CUST00063,Michael Kala,sachdevanikita@example.com,Delhi,2024-12-29,F,,Influencer
+CUST00064,David Jhaveri,xramachandran@example.net,Ahmedabad,2025-10-07,F,,Organic Search
+CUST00065,Lajita Sood,pandeychanchal@example.com,Delhi,2026-07-25,M,,Google Ads
+CUST00066,Thomas Sura,anjalisarin@example.com,Jaipur,2026-05-19,F,,Instagram Ads
+CUST00067,Nidhi Gandhi,ndatta@example.net,Delhi,02/10/2024,Other,,Organic Search
+CUST00068,Avi Chacko,ddeshmukh@example.org,Jaipur,01-10-2024,,,Referral
+CUST00069,Falak Kakar,vnarain@example.com,Pune,2024-10-18,,,Instagram Ads
+CUST00070,Zayyan Bumb,vbahl@example.net,Pune,31-03-2025,Other,52.0,Google Ads
+CUST00071,Udarsh Biswas,balasubramanianyug@example.org,Hyderabad,2024-10-19,F,,Organic Search
+CUST00072,William Date,kcontractor@example.org,Jaipur,09/05/2026,M,,Influencer
+CUST00073,Jyoti Ganesh,gadedeepa@example.org,Bengaluru,12-08-2025,,,Organic Search
+CUST00074,Keya Ranganathan,faqidkibe@example.org,Jaipur,02/11/2025,F,,Organic Search
+CUST00075,Jai Barman,priya51@example.net,Kolkata,2026-01-26,,47.0,Influencer
+CUST00076,Osha Suri,santjanaki@example.net,Bengaluru,22-12-2025,M,45.0,Organic Search
+CUST00077,Michael Saran, ,Bengaluru,2026-06-15,Other,,Organic Search
+CUST00078,Ekantika Korpal,mallickshravya@example.org,Kolkata,12/08/2025,M,52.0,Referral
+CUST00079,Gayathri Balakrishnan,lnair@example.com,Mumbai,2026-03-06,M,33.0,Instagram Ads
+CUST00080,Harini Mammen,advaith83@example.org,Delhi,11-02-2025,,54.0,Organic Search
+CUST00081,Vrinda Khosla,cswaminathan@example.org,Pune,04-03-2025,F,25.0,Referral
+CUST00082,Nidhi Kohli,jyoti78@example.net,Lucknow,2024-11-17,Other,,Email
+CUST00083,Indira Setty,damini43@example.org,Mumbai,2025-05-17,F,37.0,Influencer
+CUST00084,Jagdish Wason,rehaankalita@example.net,Chennai,2026-02-13,Other,,Instagram Ads
+CUST00085,Harish Hari,utkarsh52@example.com,Ahmedabad,26/08/2025,Other,47.0,Organic Search
+CUST00086,Anusha Bath,masterjonathan@example.net,Jaipur,2024-09-22,Other,,Organic Search
+CUST00087,Harshil Arora,upasna77@example.com,Lucknow,30/05/2026,F,,Organic Search
+CUST00088,Zayyan Sridhar,bhattacharyyanandini@example.com,Ahmedabad,2025-01-22,,,Google Ads
+CUST00089,Max Dixit,frederick31@example.net,Hyderabad,04/11/2024,Other,,Influencer
+CUST00090,Lajita Seshadri,lmishra@example.com,Jaipur,2026-03-16,M,,Influencer
+CUST00091,Hardik Johal,aishanibumb@example.org,Ahmedabad,2025-04-19,,19.0,Referral
+CUST00092,Naksh Agate,sseshadri@example.net,Kolkata,2025-03-03,Other,,Influencer
+CUST00093,Vincent Mani,sudiksha13@example.com,Chennai,16-08-2025,Other,,Referral
+CUST00094,Pavani Contractor,manthanlata@example.org,Hyderabad,02/04/2026,F,52.0,Google Ads
+CUST00095,Damyanti Mani,ddash@example.net,Ahmedabad,2024-11-02,Other,,Google Ads
+CUST00096,Anita Tella,fsarma@example.net,Hyderabad,18/04/2025,Other,52.0,Referral
+CUST00097,Ekantika Krishna,chandveer@example.net,Bengaluru,2024-10-10,F,49.0,Instagram Ads
+CUST00098,Amruta Baria,upmavenkataraman@example.net,Pune,06-05-2026,,,Organic Search
+CUST00099,Pratyush Sarin,echand@example.com,Mumbai,2025-07-27,M,21.0,Google Ads
+CUST00100,Henry Dyal,nisha74@example.net,Pune,03-07-2025,F,44.0,Influencer
+CUST00101,Suhani Chakrabarti,zayyan51@example.com,Ahmedabad,24/07/2026,Other,,Influencer
+CUST00102,Turvi Sachdev, ,Bengaluru,27-05-2026,M,,Google Ads
+CUST00103,Riya Behl,amaradeep@example.com,Hyderabad,04-12-2025,M,29.0,Google Ads
+CUST00104,Jairaj Balakrishnan,nathanmukhopadhyay@example.net,Kolkata,2025-07-24,,,Email
+CUST00105,Girik Kar,shenoyjacob@example.net,Ahmedabad,21/09/2024,F,,Email
+CUST00106,Bishakha Upadhyay,ojasvi77@example.org,Hyderabad,04-05-2026,F,35.0,Instagram Ads
+CUST00107,Leela Halder,ekarajmajumdar@example.com,Delhi,2025-08-06,Other,,Email
+CUST00108,Aarnav Mandal,vrishti27@example.net,Pune,14/05/2025,,56.0,Organic Search
+CUST00109,Krishna Shah,ranbir39@example.com,Chennai,26-08-2025,M,54.0,Email
+CUST00110,Caleb Nadkarni,yraj@example.net,Lucknow,27/02/2025,F,,Referral
+CUST00111,Warhi Bansal,yadavinarula@example.org,Lucknow,2026-04-05,,,Organic Search
+CUST00112,Harish Vora,uaurora@example.org,Kolkata,03/06/2026,M,,Email
+CUST00113,Falan Singh,hamsini96@example.net,Pune,04/07/2025,,53.0,Organic Search
+CUST00114,Lajita Nadig,nbanik@example.org,Chennai,2024-11-08,M,,Organic Search
+CUST00115,Utkarsh Chana,wchaudhari@example.net,Bengaluru,28-02-2025,,,Influencer
+CUST00116,Sachi Ganesan,ayush05@example.org,Ahmedabad,31/01/2026,F,,Organic Search
+CUST00117,Raagini Dhingra,nishagole@example.org,Ahmedabad,11-04-2025,F,37.0,Influencer
+CUST00118,Wridesh Tank,vincentshenoy@example.net,Mumbai,16/01/2025,M,25.0,Organic Search
+CUST00119,Aditya Shroff,nakul17@example.com,Pune,13-03-2025,Other,,Google Ads
+CUST00120,Panini Krishna,mmittal@example.com,Jaipur,24/08/2026,F,,Influencer
+CUST00121,Warjas Raj,chakrika40@example.net,Delhi,19-05-2026,Other,,Influencer
+CUST00122,Chandran Taneja,victor95@example.org,Bengaluru,23/06/2025,Other,,Google Ads
+CUST00123,Laksh Chatterjee,moreridhi@example.org,Jaipur,14/12/2025,Other,,Organic Search
+CUST00124,Gautam Merchant,ojasvi23@example.org,Hyderabad,03/11/2025,,42.0,Organic Search
+CUST00125,Yachana Mahajan,aarinisubramaniam@example.com,Chennai,2026-04-01,,60.0,Organic Search
+CUST00126,Ishwar Sidhu,dhaliwalupkaar@example.net,Delhi,2026-03-03,Other,46.0,Influencer
+CUST00127,Jasmit Chana,qatwal@example.net,Bengaluru,15/02/2026,,27.0,Organic Search
+CUST00128,Adweta Raj,hritik37@example.org,Chennai,09/12/2024,,,Referral
+CUST00129,Timothy Bhatnagar, ,Ahmedabad,02-12-2025,M,,Google Ads
+CUST00130,Baljiwan Modi,gdalia@example.org,,05-12-2024,M,,Google Ads
+CUST00131,Lipika Setty,oni92@example.com,Pune,12-06-2026,M,,Referral
+CUST00132,Nikita Mammen,prabhakarteerth@example.com,Kolkata,27/12/2025,,29.0,Google Ads
+CUST00133,Janani Chaudhary,jagrati06@example.com,Lucknow,2025-07-29,F,55.0,Google Ads
+CUST00134,Suhani Chand,anshbedi@example.com,Pune,26/01/2025,M,,Email
+CUST00135,Samesh Biswas,tarakkaul@example.com,Delhi,06-03-2025,Other,,Referral
+CUST00136,Aradhana Dhillon,zashilghosh@example.org,Kolkata,23-03-2026,,,Organic Search
+CUST00137,Karan Aurora,wazir95@example.org,Hyderabad,2025-12-31,Other,36.0,Email
+CUST00138,Jonathan Sama,bhattvamakshi@example.com,Pune,15/01/2025,M,,Email
+CUST00139,Siya Thakur,calebverma@example.com,Pune,26/03/2026,F,40.0,Email
+CUST00140,Darsh Srinivas,rsandhu@example.org,Lucknow,2025-08-07,F,58.0,Referral
+CUST00141,Ethan Buch,manbir12@example.com,Bengaluru,30/08/2025,F,,Email
+CUST00142,Lakshmi Wali,sudiksha89@example.com,Delhi,05/12/2025,Other,35.0,Referral
+CUST00143,Tanveer Sani,akari@example.com,Pune,22/11/2024,Other,47.0,Google Ads
+CUST00144,Ojasvi Chandran,prisha54@example.com,Kolkata,2026-04-30,Other,43.0,Referral
+CUST00145,Ekalinga Chand,chanderrachana@example.org,Mumbai,30-07-2026,Other,,Instagram Ads
+CUST00146,Kalpit Bhasin,jason65@example.net,Hyderabad,02-03-2026,Other,,Google Ads
+CUST00147,Charan Mani,indira19@example.net,Mumbai,21-07-2026,,,Referral
+CUST00148,Udarsh Chokshi,jhalak14@example.net,Kolkata,12-02-2025,M,,Referral
+CUST00149,Atharv Loke,goleanjali@example.net,Mumbai,21/02/2025,F,,Influencer
+CUST00150,Indali Ahuja,lukerattan@example.org,Delhi,14-03-2026,M,,Referral
+CUST00151,Gavin Wali,krishasaini@example.com,Chennai,2024-12-23,,,Referral
+CUST00152,Devika Nair,bennachiket@example.org,Chennai,2025-05-15,Other,35.0,Instagram Ads
+CUST00153,Finn Magar,fsamra@example.net,Mumbai,09/03/2026,M,39.0,Google Ads
+CUST00154,Tanveer Vala,paiqushi@example.org,Hyderabad,27-07-2025,F,,Google Ads
+CUST00155,Darika Bath,meghabhakta@example.org,Bengaluru,03-04-2025,F,,Influencer
+CUST00156,Laksh Kumer, ,Delhi,06/02/2025,M,40.0,Influencer
+CUST00157,Kai Rai,xitipandya@example.org,Bengaluru,03/03/2026,M,44.0,Email
+CUST00158,Rajata Bahl,ubrahmbhatt@example.net,Ahmedabad,2025-06-24,Other,,Influencer
+CUST00159,Omisha Mann,ravelansh@example.com,Lucknow,2025-07-18,Other,19.0,Organic Search
+CUST00160,Janaki Chakrabarti,pcherian@example.com,Kolkata,13/01/2025,,46.0,Instagram Ads
+CUST00161,Meghana Mukherjee,timothy52@example.org,Lucknow,09/11/2025,F,,Organic Search
+CUST00162,Yashvi Hari,indali23@example.org,Jaipur,14-09-2025,,25.0,Organic Search
+CUST00163,Oscar Dua,goelwakeeta@example.com,Hyderabad,26/12/2024,,,Organic Search
+CUST00164,Ekantika Mutti,riabir@example.com,Pune,09/03/2026,F,48.0,Instagram Ads
+CUST00165,Anvi Bhalla,yashica14@example.com,Mumbai,2025-07-27,Other,53.0,Influencer
+CUST00166,Jyoti Mangat,chanayashica@example.com,Jaipur,03-08-2025,M,,Email
+CUST00167,Shivani Guha,vamakshi82@example.org,Pune,2025-08-11,Other,50.0,Google Ads
+CUST00168,Frado Thaman,balveerkota@example.net,Ahmedabad,02-08-2025,M,,Instagram Ads
+CUST00169,Nathan Patla, ,Lucknow,24/07/2025,,57.0,Influencer
+CUST00170,Gaurika Bhatti,girindra86@example.com,Pune,13-01-2026,Other,,Referral
+CUST00171,Gauri Bumb,inayamukherjee@example.net,Delhi,2025-03-12,,58.0,Instagram Ads
+CUST00172,Kai Chad,krisha52@example.net,Jaipur,27-01-2026,,,Referral
+CUST00173,Pallavi Trivedi,andrew54@example.org,Chennai,31-01-2026,M,27.0,Influencer
+CUST00174,Vedika Handa,lakshdubey@example.org,Mumbai,2026-07-28,,,Referral
+CUST00175,Yashica Zacharia,nayarkaran@example.net,Jaipur,2025-04-12,,,Influencer
+CUST00176,Pratyush Gandhi,abassi@example.com,Pune,10-06-2025,,,Instagram Ads
+CUST00177,Sachi Mane,ikaur@example.org,Hyderabad,2026-01-11,F,,Referral
+CUST00178,Rishi Pillai,xshenoy@example.com,Bengaluru,2025-04-22,,42.0,Influencer
+CUST00179,Neel Iyengar,zashilben@example.net,Chennai,26-03-2026,M,47.0,Referral
+CUST00180,Harshil Varty,manefiyaz@example.org,Kolkata,24-08-2025,,43.0,Referral
+CUST00181,Rajeshri Chand,shravyapalla@example.org,Lucknow,2025-03-27,Other,24.0,Organic Search
+CUST00182,Yadavi Prakash,libnibumb@example.com,Kolkata,07-07-2025,,39.0,Referral
+CUST00183,Hardik Nayak,lakshbarad@example.com,Mumbai,2025-02-20,M,,Referral
+CUST00184,Liam Singh,fahluwalia@example.org,Delhi,04-07-2026,F,29.0,Email
+CUST00185,Pallavi Choudhry,wazir41@example.org,,2025-03-15,,,Email
+CUST00186,Dev Choudhry,bwason@example.net,Lucknow,02-03-2025,Other,,Organic Search
+CUST00187,Maanas Manne,nagarwal@example.com,Pune,18-09-2025,M,,Organic Search
+CUST00188,Rachit Chada,ekansh88@example.net,Bengaluru,04/03/2025,Other,,Organic Search
+CUST00189,Madhavi Singhal,ramkashvi@example.com,Jaipur,01-04-2026,M,54.0,Referral
+CUST00190,Ekansh Pai,hemangnatarajan@example.org,Ahmedabad,04-03-2026,M,39.0,Influencer
+CUST00191,Parth Shetty,zgopal@example.org,Delhi,13-10-2024,,,Influencer
+CUST00192,Balhaar Memon,calebiyengar@example.org,Lucknow,27-10-2024,Other,,Organic Search
+CUST00193,Yutika Rao,ckulkarni@example.net,Chennai,27/04/2025,M,,Instagram Ads
+CUST00194,Champak Narula,jeet56@example.com,Mumbai,27/01/2025,,60.0,Referral
+CUST00195,Harinakshi Grover,xtank@example.net,Lucknow,2026-03-01,Other,,Google Ads
+CUST00196,Panini Brar,igole@example.com,Mumbai,23-03-2025,,39.0,Email
+CUST00197,Falak Merchant,sanaya96@example.org,Jaipur,01-05-2025,,,Referral
+CUST00198,Sanya Basak,radhika40@example.org,Hyderabad,2026-01-21,,26.0,Instagram Ads
+CUST00199,Januja Varghese,azaandhar@example.net,Mumbai,08/01/2026,M,57.0,Influencer
+CUST00200,Bakhshi Date,keerjeevika@example.com,Delhi,13/01/2026,F,,Referral
+CUST00201,Mitesh Sengupta,kamya71@example.net,Hyderabad,14-06-2025,Other,46.0,Influencer
+CUST00202,Mitali Murthy,zaid10@example.net,Pune,2024-12-20,,,Google Ads
+CUST00203,Jacob Lala,sanaya39@example.com,Lucknow,23/01/2025,,,Influencer
+CUST00204,Ryan Das,ethanseth@example.org,Kolkata,24-01-2026,F,,Instagram Ads
+CUST00205,Gagan Nagarajan,dhruv88@example.com,Ahmedabad,21-06-2026,M,51.0,Referral
+CUST00206,Owen Pathak,jairajiyer@example.org,Delhi,2026-06-15,F,23.0,Organic Search
+CUST00207,Atharv Patel,unni82@example.net,Bengaluru,01/03/2025,,,Instagram Ads
+CUST00208,Dayamai Rao,avora@example.com,Hyderabad,10/06/2026,M,,Google Ads
+CUST00209,Jeremiah Nadig,senguptaunnati@example.net,Bengaluru,2026-04-27,,,Organic Search
+CUST00210,Qabil Dayal,dthakkar@example.org,Bengaluru,19-09-2025,M,,Instagram Ads
+CUST00211,Nitesh Edwin,umang58@example.com,Hyderabad,20/09/2025,M,,Instagram Ads
+CUST00212,Ronith Maharaj,chavviwalla@example.org,,2026-05-14,M,54.0,Email
+CUST00213,Mitesh Garg,benjamin01@example.org,Pune,2025-09-08,Other,44.0,Email
+CUST00214,Shivansh Saha,tankbimala@example.net,Mumbai,26-07-2026,Other,51.0,Organic Search
+CUST00215,Yash Ravi,sudiksha10@example.org,Bengaluru,01/08/2026,Other,,Instagram Ads
+CUST00216,Ucchal Jani,maanas55@example.net,Hyderabad,25/07/2025,M,39.0,Instagram Ads
+CUST00217,Mohini De,yutika81@example.com,Jaipur,24/08/2026,F,,Email
+CUST00218,Amara Sengupta,lohitchatterjee@example.org,Delhi,2025-03-05,,30.0,Google Ads
+CUST00219,Omya Kothari,falakmunshi@example.org,Chennai,2025-04-08,,,Influencer
+CUST00220,Yutika Sibal,fmorar@example.org,Pune,15/03/2026,F,,Referral
+CUST00221,Yashasvi Shankar,tanveerpandit@example.org,,2024-11-15,,,Google Ads
+CUST00222,Upma Mangal,chokshiraagini@example.org,Ahmedabad,18/10/2024,Other,45.0,Organic Search
+CUST00223,Neha Pau,rattancharan@example.net,Delhi,09-06-2026,Other,,Referral
+CUST00224,Bhavya Borah,cthaman@example.net,Lucknow,21/10/2025,F,,Instagram Ads
+CUST00225,Kabir Chatterjee,yprakash@example.com,Chennai,01-04-2025,,21.0,Email
+CUST00226,Maanas Issac,ctella@example.org,Kolkata,18-10-2025,F,,Google Ads
+CUST00227,Urvi Venkataraman,mdixit@example.net,Ahmedabad,10-10-2024,M,,Referral
+CUST00228,Nicholas Ramaswamy,gayathri88@example.net,Lucknow,21/12/2024,F,,Organic Search
+CUST00229,Vaishnavi Badal,garima16@example.net,Lucknow,2025-08-30,Other,,Google Ads
+CUST00230,Urvi Lanka,charansrinivasan@example.org,Bengaluru,2025-04-21,,53.0,Referral
+CUST00231,Manbir Kibe,choudharyrayaan@example.org,Ahmedabad,24/09/2025,Other,49.0,Instagram Ads
+CUST00232,Max Sachar,nirjathaker@example.net,Mumbai,2025-07-26,,,Email
+CUST00233,Lakshit Venkataraman,ektasridhar@example.net,Chennai,06/07/2026,Other,28.0,Referral
+CUST00234,Tripti Walia,irya49@example.com,Hyderabad,10-06-2025,F,,Instagram Ads
+CUST00235,Arya Misra,chamelimani@example.net,Jaipur,28/01/2025,,53.0,Influencer
+CUST00236,Edhitha Srinivasan,anusha41@example.net,Mumbai,2025-02-08,,44.0,Google Ads
+CUST00237,Megha Pai,binabasak@example.com,Mumbai,12/01/2026,Other,53.0,Google Ads
+CUST00238,Hiral Sathe,varenya33@example.net,Jaipur,31/07/2026,M,51.0,Referral
+CUST00239,Laksh Chopra,xavierbedi@example.net,Delhi,2025-03-26,F,,Instagram Ads
+CUST00240,Viraj Ben,sachdevganga@example.net,Hyderabad,25/06/2026,Other,37.0,Influencer
+CUST00241,Abdul Dugar, ,Delhi,18-08-2025,F,,Influencer
+CUST00242,Ekani Mangal,chakrabortyvincent@example.net,Bengaluru,2025-02-02,Other,,Influencer
+CUST00243,Parth Sahni,balhaarranganathan@example.com,Bengaluru,25-02-2026,Other,,Google Ads
+CUST00244,Baljiwan Andra,hredhaan54@example.com,Kolkata,24-01-2025,M,,Organic Search
+CUST00245,Krish Thaman,mmahajan@example.org,Ahmedabad,25/08/2026,F,,Organic Search
+CUST00246,Aarini Grewal,nazarethchakrika@example.net,Chennai,2025-05-08,M,47.0,Referral
+CUST00247,Parth Ravi,uvarma@example.org,Hyderabad,10/01/2026,M,,Google Ads
+CUST00248,Qasim Dey,pnaik@example.org,Chennai,2025-06-27,Other,,Influencer
+CUST00249,Sanya Loke,chasmum99@example.org,Ahmedabad,18/03/2025,,,Google Ads
+CUST00250,Warinder Bhatia,shroffdamyanti@example.org,Lucknow,2025-03-19,M,,Referral
+CUST00251,Jacob Merchant,timothy32@example.com,Bengaluru,30-06-2025,,,Organic Search
+CUST00252,Ojasvi Sinha,yugbumb@example.net,Bengaluru,31/12/2024,F,36.0,Organic Search
+CUST00253,Faras Choudhury,tiwarisamaksh@example.net,Ahmedabad,30-07-2025,Other,57.0,Google Ads
+CUST00254,Falak Venkatesh,rdada@example.org,Kolkata,2025-10-03,Other,41.0,Google Ads
+CUST00255,Gavin Uppal,dbhakta@example.org,Jaipur,10-02-2026,M,,Organic Search
+CUST00256,Dalbir Shere,anthony64@example.org,Ahmedabad,16-09-2025,F,,Google Ads
+CUST00257,Chakradev Sampath,devansh80@example.org,Lucknow,02/03/2026,Other,,Email
+CUST00258,Azad Mangat,xgole@example.org,Pune,23-08-2026,M,,Influencer
+CUST00259,Kavya Raja,ypurohit@example.org,Bengaluru,17/03/2026,Other,,Influencer
+CUST00260,Ijaya Dani,mayawadhwa@example.org,Hyderabad,16-01-2026,,,Google Ads
+CUST00261,Aarush Bajaj,ubika86@example.net,Hyderabad,18-02-2026,M,,Organic Search
+CUST00262,Yug Sharma,mohammed43@example.net,Kolkata,2025-06-12,,,Email
+CUST00263,Oni Babu,samuelbhavsar@example.org,Bengaluru,17-03-2026,F,,Influencer
+CUST00264,Chanakya Konda,rattireva@example.org,Chennai,13/11/2025,,,Referral
+CUST00265,Logan Thakur,vivaan95@example.net,Chennai,05-10-2025,Other,30.0,Referral
+CUST00266,Warjas Mittal,timothysachdev@example.com,Pune,16-11-2025,Other,,Referral
+CUST00267,Prisha Tandon,padmanabhanlakshmi@example.net,Chennai,29/03/2025,Other,,Organic Search
+CUST00268,Nilima Dixit,krisha28@example.com,Delhi,29/04/2025,Other,,Instagram Ads
+CUST00269,Charita Dhawan,jbhardwaj@example.com,Ahmedabad,04/03/2025,,,Influencer
+CUST00270,Lipika Kibe,samar51@example.com,Pune,09-08-2026,F,60.0,Email
+CUST00271,Rayaan Behl,krishna99@example.org,Bengaluru,2026-05-14,Other,24.0,Instagram Ads
+CUST00272,Teerth Srinivas,gaurangimitter@example.org,Delhi,03-06-2026,,,Referral
+CUST00273,Jacob Srinivas,samarthranganathan@example.org,Bengaluru,11/02/2025,M,32.0,Google Ads
+CUST00274,Lajita Shukla,darika45@example.net,Delhi,14/10/2025,M,,Organic Search
+CUST00275,Guneet Singh,samar55@example.com,Delhi,09/06/2026,Other,,Influencer
+CUST00276,Madhav Babu,omisha42@example.org,Mumbai,14-10-2024,Other,,Google Ads
+CUST00277,Yatan Tata,aarini77@example.com,Ahmedabad,07-05-2025,M,,Email
+CUST00278,Omkaar Dey,igour@example.net,Bengaluru,2025-01-11,Other,30.0,Influencer
+CUST00279,Falan Bava,sacharlaksh@example.net,Kolkata,02-08-2026,Other,60.0,Google Ads
+CUST00280,Aditya Kamdar,dprakash@example.net,Ahmedabad,2025-02-25,F,42.0,Organic Search
+CUST00281,Vinaya Babu,walinisha@example.org,Chennai,15/12/2025,M,41.0,Instagram Ads
+CUST00282,Bhavini Badal,ggola@example.org,Mumbai,24-09-2024,F,,Email
+CUST00283,Rehaan Vyas,irya46@example.org,Pune,2025-09-24,F,,Google Ads
+CUST00284,Tripti Kohli,charitabuch@example.net,Lucknow,07/06/2025,,60.0,Google Ads
+CUST00285,Girik Ravi,jpurohit@example.com,Lucknow,27-08-2026,M,,Instagram Ads
+CUST00286,Onveer Butala,psaraf@example.com,Mumbai,22-10-2024,F,27.0,Referral
+CUST00287,Brijesh Karpe,vaishnavimadan@example.org,Ahmedabad,24-10-2025,F,49.0,Influencer
+CUST00288,Bachittar Gola,amol39@example.org,Bengaluru,09/07/2026,,,Email
+CUST00289,Faraj Mistry,wrideshramachandran@example.net,Bengaluru,07/03/2026,M,55.0,Instagram Ads
+CUST00290,Leena Dey,tellahiral@example.org,Chennai,19/06/2026,M,,Instagram Ads
+CUST00291,Faqid Oak,bnarain@example.net,Bengaluru,21/11/2024,F,,Referral
+CUST00292,Vritti Kari,keya62@example.net,Ahmedabad,27/03/2025,,60.0,Email
+CUST00293,Frederick Merchant, ,Mumbai,07/11/2025,,32.0,Instagram Ads
+CUST00294,Lopa Nadig,hredhaan10@example.com,Ahmedabad,01/01/2025,,32.0,Organic Search
+CUST00295,Harsh Deo, ,Delhi,29/07/2025,M,,Influencer
+CUST00296,Harshil Bal,pandyagirik@example.net,Hyderabad,2025-10-18,M,46.0,Google Ads
+CUST00297,Lekha Arora,odika61@example.net,Bengaluru,16-11-2025,F,21.0,Influencer
+CUST00298,Omkaar Rai,liamluthra@example.com,Hyderabad,22/06/2026,Other,38.0,Referral
+CUST00299,Dev Ganesh,amajumdar@example.com,,2025-03-24,Other,53.0,Email
+CUST00300,Jalsa Krishnamurthy,warhihayre@example.com,Kolkata,26-08-2025,M,,Email
+CUST00301,Abeer Randhawa,lajita57@example.com,Kolkata,28-11-2024,Other,44.0,Referral
+CUST00302,Charita Nagi,varenyamurthy@example.org,Delhi,19/07/2025,,,Email
+CUST00303,Bishakha Swaminathan,eshanapuri@example.com,Ahmedabad,2026-08-07,,,Influencer
+CUST00304,Janya Comar, ,Delhi,22-04-2026,Other,59.0,Organic Search
+CUST00305,Raksha Manne,regexalak@example.org,Mumbai,10/08/2025,F,42.0,Instagram Ads
+CUST00306,Zayyan Dube,epurohit@example.com,Lucknow,2025-12-12,F,,Instagram Ads
+CUST00307,Nandini Warrior,ybansal@example.com,Hyderabad,2026-08-26,M,48.0,Email
+CUST00308,Ikbal Kothari,ojas90@example.net,Hyderabad,30-01-2026,F,,Organic Search
+CUST00309,Garima Sani,anneguneet@example.com,Chennai,21-08-2026,Other,,Instagram Ads
+CUST00310,Sanaya Prasad,xsheth@example.net,Ahmedabad,18-02-2025,Other,,Referral
+CUST00311,Hemani Bakshi,scheema@example.com,Kolkata,09/11/2025,F,,Influencer
+CUST00312,Jack Dhar,devika57@example.org,Lucknow,06-07-2026,Other,39.0,Organic Search
+CUST00313,Vamakshi Chatterjee,usethi@example.org,Hyderabad,22-09-2025,Other,,Organic Search
+CUST00314,Arin Oza,galayagnesh@example.net,Chennai,2025-04-16,,52.0,Influencer
+CUST00315,Ganga Sandhu,zkata@example.com,Mumbai,2025-01-15,M,44.0,Email
+CUST00316,Rachana Randhawa,horashivani@example.net,Mumbai,2025-12-09,M,,Instagram Ads
+CUST00317,Tanish Jha,dev91@example.net,,18-07-2025,,,Instagram Ads
+CUST00318,Ronith Shankar,lalavrishti@example.net,Jaipur,2025-01-24,Other,45.0,Instagram Ads
+CUST00319,Lipika Ramanathan,pallindira@example.com,Jaipur,2026-08-08,F,,Referral
+CUST00320,Frado Desai,jacob34@example.org,Mumbai,30/11/2025,,33.0,Referral
+CUST00321,Yasti Rama,kdevi@example.com,Mumbai,21-01-2025,M,,Influencer
+CUST00322,Oscar Ganesan,imani@example.org,Bengaluru,13/07/2025,F,,Influencer
+CUST00323,Chatresh Parmer,sundaramlaban@example.org,Jaipur,2025-04-26,F,,Referral
+CUST00324,Nilima Swamy,fsawhney@example.org,Mumbai,2026-04-21,Other,54.0,Google Ads
+CUST00325,Thomas Master,maharajumang@example.net,Bengaluru,10/11/2024,F,43.0,Referral
+CUST00326,Warhi Vaidya,comaramrita@example.net,Lucknow,2025-04-07,,,Organic Search
+CUST00327,Benjamin Sastry,pavanichaudry@example.net,Delhi,27-04-2026,M,40.0,Instagram Ads
+CUST00328,Chameli Bali,wlall@example.org,Hyderabad,02/05/2026,Other,,Referral
+CUST00329,Warjas Kadakia,priya29@example.org,Pune,2025-07-25,,,Organic Search
+CUST00330,Daniel Panchal,om54@example.com,Lucknow,2026-03-31,M,36.0,Email
+CUST00331,Krishna Sabharwal,malhotrajonathan@example.net,Mumbai,2025-10-29,,58.0,Email
+CUST00332,Madhav Nagy,mayasuri@example.org,Chennai,28/05/2026,M,,Referral
+CUST00333,Oeshi Prashad,oborra@example.org,Mumbai,01/11/2025,F,,Instagram Ads
+CUST00334,Jyoti Sha, ,Mumbai,2025-06-29,M,,Instagram Ads
+CUST00335,Tara Parmar,warriormitali@example.org,Kolkata,30/05/2026,M,53.0,Influencer
+CUST00336,Warda Loyal,bhanumati58@example.net,Delhi,10-08-2026,F,,Organic Search
+CUST00337,Hemal Bava,chaudharytripti@example.org,Mumbai,2024-12-15,Other,48.0,Referral
+CUST00338,Ridhi Shan,sanghasamaksh@example.net,Hyderabad,10/12/2024,,,Instagram Ads
+CUST00339,Nathan Mahal,patelzashil@example.org,Pune,2026-06-28,,,Referral
+CUST00340,Charles Randhawa,vivaan61@example.net,Chennai,06/06/2025,F,56.0,Organic Search
+CUST00341,Vansha Brahmbhatt,upkaarvenkataraman@example.net,Delhi,19/11/2024,Other,,Influencer
+CUST00342,Hemal Dara,edeo@example.org,Chennai,2025-07-29,,54.0,Influencer
+CUST00343,Harsh Chauhan,jhalak42@example.com,Delhi,23-02-2025,M,,Organic Search
+CUST00344,Luke Biswas,galaria@example.com,Hyderabad,22-03-2026,Other,,Email
+CUST00345,Nisha Savant,gabrielchaudhry@example.org,Delhi,14/02/2026,F,,Organic Search
+CUST00346,Indali Sanghvi,logan34@example.net,Ahmedabad,2026-03-07,,,Influencer
+CUST00347,Avi Mitra,zarnaupadhyay@example.org,Chennai,2024-11-11,M,,Google Ads
+CUST00348,Chatura Khatri,hraju@example.org,Lucknow,04-03-2026,,,Referral
+CUST00349,Advik Patel,kevin69@example.com,Mumbai,06/09/2025,Other,51.0,Organic Search
+CUST00350,Urishilla Bora,birakshay@example.com,Kolkata,02/06/2025,F,,Instagram Ads
+CUST00351,Mitali Toor,yachana66@example.net,Kolkata,14/02/2025,M,,Referral
+CUST00352,Arunima Chacko,farhan83@example.org,Ahmedabad,28/06/2025,,,Email
+CUST00353,Dominic Mukherjee,dkhare@example.org,Ahmedabad,03-10-2025,Other,25.0,Referral
+CUST00354,Jack Setty,moreparth@example.org,Mumbai,13-11-2024,F,,Email
+CUST00355,Advay Gade,hpalan@example.net,Jaipur,2024-09-21,F,,Google Ads
+CUST00356,Ojas Prabhu, ,Delhi,29/03/2026,,57.0,Organic Search
+CUST00357,Anita Viswanathan,lallfaraj@example.com,Kolkata,11-05-2025,F,22.0,Influencer
+CUST00358,Christopher Tata,jhalakdugar@example.com,Chennai,2025-08-05,,,Influencer
+CUST00359,Vedant Upadhyay,basuadvik@example.org,Chennai,22-03-2026,,,Organic Search
+CUST00360,Leela Doctor,balendrasaini@example.org,Delhi,15-10-2024,Other,,Influencer
+CUST00361,Ekaja Madan,pradhanjagdish@example.net,Delhi,2025-05-01,F,,Email
+CUST00362,Praneel Kapoor,rattanekapad@example.com,Jaipur,2026-01-09,F,45.0,Organic Search
+CUST00363,Falak Chadha,xanand@example.org,Jaipur,28-05-2026,F,,Google Ads
+CUST00364,Xavier Shetty, ,Chennai,2025-04-09,M,,Google Ads
+CUST00365,Arjun Kaul,aditya50@example.net,Kolkata,2024-12-29,,,Email
+CUST00366,Hemang Jha,oniswamy@example.org,Ahmedabad,09/06/2025,M,,Instagram Ads
+CUST00367,Ati Chander,katazinal@example.com,Hyderabad,13/08/2026,F,,Influencer
+CUST00368,Tara Chad, ,Mumbai,29-01-2026,Other,41.0,Email
+CUST00369,David Saran,warjasmanne@example.com,Jaipur,25/04/2026,,59.0,Referral
+CUST00370,Eta Nadkarni,omagar@example.org,Ahmedabad,2026-05-17,M,25.0,Google Ads
+CUST00371,Ikbal Dugal,galashivani@example.com,Lucknow,23-07-2026,,26.0,Google Ads
+CUST00372,Ishita Johal,dmorar@example.com,Lucknow,2025-04-26,Other,,Email
+CUST00373,Nakul Modi,kalefalak@example.org,Pune,18/05/2026,M,44.0,Referral
+CUST00374,Ishani Randhawa,mistryabha@example.org,Delhi,16-11-2024,F,38.0,Email
+CUST00375,Sneha Krish,shereharsh@example.org,Ahmedabad,04/10/2024,Other,,Instagram Ads
+CUST00376,Tristan De,nandinipradhan@example.net,Mumbai,08-12-2024,Other,,Organic Search
+CUST00377,Aashi Borde,bhattacharyyarudra@example.net,Lucknow,09/12/2025,M,,Instagram Ads
+CUST00378,George Narula,basaktriya@example.org,Kolkata,28-07-2025,,,Referral
+CUST00379,Megha Taneja,rajapooja@example.org,Chennai,10/01/2025,F,,Email
+CUST00380,Anvi Mammen,cdixit@example.net,Bengaluru,2025-05-24,,,Organic Search
+CUST00381,Chakrika Tara,dsrinivas@example.org,Kolkata,2025-12-01,F,37.0,Referral
+CUST00382,Oni Iyengar,anirudhraja@example.net,Chennai,2025-04-01,Other,59.0,Instagram Ads
+CUST00383,Hemangini Thakkar,lipika42@example.org,Pune,28/05/2025,F,23.0,Instagram Ads
+CUST00384,Ayushman Mand,sodhiishita@example.net,Ahmedabad,2025-04-29,F,46.0,Instagram Ads
+CUST00385,Harish Kota,amairawalla@example.net,Chennai,01-09-2026,,48.0,Google Ads
+CUST00386,Lipika Pant,patrickkhalsa@example.net,Mumbai,22/10/2024,M,,Google Ads
+CUST00387,Ayaan Pandey,raghavtailor@example.net,Delhi,28/04/2025,F,54.0,Influencer
+CUST00388,Baljiwan Chana,kaultheodore@example.org,Delhi,22-04-2025,F,,Influencer
+CUST00389,Garima Jaggi,harinigoel@example.com,Ahmedabad,26-09-2025,M,26.0,Influencer
+CUST00390,Lucky Choudhry,elijah56@example.net,,24-10-2024,,26.0,Referral
+CUST00391,Ekantika Deshpande,rajeshrisur@example.net,Mumbai,23-11-2024,Other,,Google Ads
+CUST00392,Udant Gill,umohanty@example.net,Lucknow,28-04-2025,,21.0,Organic Search
+CUST00393,Aarav Raman,gopaleesha@example.net,Mumbai,12/04/2025,M,,Referral
+CUST00394,Watika Dhaliwal,faras35@example.com,Kolkata,2025-02-18,,,Instagram Ads
+CUST00395,Gautami Sekhon,lankashaurya@example.org,Lucknow,2025-01-10,Other,,Influencer
+CUST00396,Aahana Chokshi,bavalibni@example.com,Jaipur,24/01/2026,,23.0,Referral
+CUST00397,Odika Tailor,ipanchal@example.com,Pune,2026-02-21,F,,Google Ads
+CUST00398,Umang Gaba,zborah@example.org,Chennai,24-11-2024,M,45.0,Instagram Ads
+CUST00399,Advika Cheema,oommenonkar@example.com,Mumbai,2025-04-12,M,56.0,Referral
+CUST00400,Girik Nigam,bbalasubramanian@example.net,Delhi,05-01-2025,F,,Referral
+CUST00401,Naksh Bera,narulasamesh@example.org,Jaipur,08-01-2025,Other,,Email
+CUST00402,Baghyawati Mishra,gopalbawa@example.com,Bengaluru,2025-07-03,,,Email
+CUST00403,Mitesh Bhagat,aarush61@example.com,Mumbai,28-10-2025,Other,54.0,Referral
+CUST00404,Ryan Chatterjee,jhaverionkar@example.net,Pune,2026-04-28,M,50.0,Instagram Ads
+CUST00405,Urvashi D’Alia,mitali77@example.net,Hyderabad,2025-04-10,Other,27.0,Instagram Ads
+CUST00406,Qasim Prabhakar, ,Kolkata,21-03-2025,F,,Instagram Ads
+CUST00407,Udyati Lall,amrutabhatia@example.org,Chennai,14-10-2024,M,51.0,Organic Search
+CUST00408,Frederick Padmanabhan,jkaran@example.org,Ahmedabad,2026-03-07,Other,,Instagram Ads
+CUST00409,Vaishnavi Keer,fmistry@example.com,Hyderabad,10/05/2026,Other,,Referral
+CUST00410,Yadavi Varughese,jaisen@example.org,Ahmedabad,23-06-2026,,52.0,Google Ads
+CUST00411,Siddharth Hans,brijeshsampath@example.org,Kolkata,2026-07-27,Other,,Instagram Ads
+CUST00412,Saksham Divan, ,Kolkata,24-08-2026,Other,51.0,Organic Search
+CUST00413,Anya Venkatesh,yarora@example.net,Bengaluru,17/10/2025,,35.0,Instagram Ads
+CUST00414,Isaiah Sachdeva,manbirchaudhry@example.org,Jaipur,2025-12-04,Other,23.0,Influencer
+CUST00415,Bhavika Wason,nirja46@example.net,Kolkata,2025-10-22,M,26.0,Referral
+CUST00416,Baljiwan Gera, ,Chennai,27/08/2025,,,Organic Search
+CUST00417,Balvan Randhawa,wazir07@example.com,Hyderabad,15/01/2026,F,55.0,Google Ads
+CUST00418,Geetika Mitter,avni71@example.org,Delhi,2026-06-19,Other,,Google Ads
+CUST00419,Ekani Luthra,mchakraborty@example.com,Pune,17/12/2024,M,37.0,Google Ads
+CUST00420,Vedhika Varty,daksh82@example.org,Delhi,11/02/2025,F,,Organic Search
+CUST00421,Krishna Viswanathan,ghosereyansh@example.org,Bengaluru,24-04-2025,Other,29.0,Organic Search
+CUST00422,Bachittar Shan,patelrushil@example.com,Jaipur,07/05/2026,F,24.0,Instagram Ads
+CUST00423,Yashasvi Ranganathan,balasubramanianwyatt@example.com,Bengaluru,2025-06-04,F,,Email
+CUST00424,Peter Som,hemangini24@example.net,Mumbai,29-08-2025,Other,,Instagram Ads
+CUST00425,Bhavani Bala,kbawa@example.net,Mumbai,2026-05-03,,,Instagram Ads
+CUST00426,Timothy Kar,amrutarout@example.net,Ahmedabad,2026-03-27,,,Instagram Ads
+CUST00427,Urvi Deo,abhiramkapur@example.com,Kolkata,26/09/2024,F,,Referral
+CUST00428,Anvi Sampath,dpalla@example.com,,24/11/2025,M,57.0,Email
+CUST00429,Mekhala Chaudry,vaidyakavya@example.net,Ahmedabad,16/02/2025,,,Google Ads
+CUST00430,Chanchal Chokshi,vbhatt@example.com,Hyderabad,22/12/2025,F,52.0,Organic Search
+CUST00431,Advika Misra,masonvarughese@example.org,Chennai,17-12-2025,,,Organic Search
+CUST00432,Ekaja Dey,tankchakrika@example.com,Delhi,21/06/2026,F,35.0,Organic Search
+CUST00433,Lipika Banik,hemalkapadia@example.net,Chennai,26-06-2026,F,,Instagram Ads
+CUST00434,Jagrati Tripathi,onkar82@example.com,Hyderabad,2025-10-01,M,,Referral
+CUST00435,Aarna Goswami,gaurav35@example.org,Delhi,2024-11-21,Other,40.0,Email
+CUST00436,Osha Narula, ,Chennai,01-03-2026,F,,Influencer
+CUST00437,Chatresh Bobal,ghayer@example.org,Delhi,17/05/2026,M,56.0,Instagram Ads
+CUST00438,Chanchal Sachdev,doralaksh@example.org,Ahmedabad,29-05-2026,F,39.0,Referral
+CUST00439,Luke Mutti,farissura@example.com,Bengaluru,2025-05-16,F,,Instagram Ads
+CUST00440,Dhriti Bhardwaj,sethanusha@example.org,Kolkata,10/12/2025,Other,26.0,Email
+CUST00441,Nathan Suri,dayalradha@example.net,Ahmedabad,14/03/2026,F,,Google Ads
+CUST00442,Vansha Rajagopal,baradryan@example.net,Lucknow,18-07-2025,,36.0,Google Ads
+CUST00443,Ekanta Wali,andrewagrawal@example.net,Bengaluru,07-06-2025,,54.0,Google Ads
+CUST00444,Hemangini Muni,harshilrajagopal@example.net,Chennai,22-02-2026,F,,Google Ads
+CUST00445,Dhruv Bath,bina78@example.net,Mumbai,09/11/2025,Other,,Organic Search
+CUST00446,Krish Oommen,wparmer@example.org,Pune,2025-09-24,M,24.0,Instagram Ads
+CUST00447,Anirudh Kari,karankakar@example.net,Ahmedabad,08/01/2025,F,,Referral
+CUST00448,Jatin Peri, ,Kolkata,27-09-2024,,54.0,Google Ads
+CUST00449,Hritik Bahri,daliaomaja@example.com,Mumbai,04/12/2025,M,,Instagram Ads
+CUST00450,Urvi Dua,adityamitra@example.com,Chennai,2025-06-12,,22.0,Referral
+CUST00451,Laksh Sahota,vaidyajacob@example.com,Lucknow,01-01-2026,M,59.0,Influencer
+CUST00452,Widisha Issac,adyavirk@example.org,Delhi,03/12/2024,Other,,Email
+CUST00453,Chakrika Dyal,tanejasarthak@example.net,Jaipur,27-05-2025,Other,24.0,Organic Search
+CUST00454,Wahab Agate,chakrabortyindrajit@example.net,Jaipur,15-07-2026,F,,Instagram Ads
+CUST00455,Gautam Vaidya,chaudhuriaahana@example.net,Lucknow,06/01/2026,M,,Instagram Ads
+CUST00456,Aishani Shetty,chaudhryowen@example.org,Mumbai,25/02/2025,,,Instagram Ads
+CUST00457,Dhriti Sandhu,chandranchakradev@example.org,Jaipur,18-05-2026,Other,41.0,Organic Search
+CUST00458,Falguni Parmar,uloyal@example.org,Pune,2026-05-18,Other,35.0,Google Ads
+CUST00459,Qadim Comar,dratta@example.com,Mumbai,07-06-2025,Other,44.0,Influencer
+CUST00460,Oviya Ganesan,deodaniel@example.org,Kolkata,2026-05-06,,,Email
+CUST00461,Raksha Golla,nparmer@example.org,Lucknow,25/11/2024,,43.0,Influencer
+CUST00462,Vasudha Sura,sabharwalridhi@example.org,Jaipur,26-05-2026,F,46.0,Google Ads
+CUST00463,Advik Vohra,hamsinivenkataraman@example.net,Hyderabad,2024-10-27,,45.0,Email
+CUST00464,Rachita Kothari,qpal@example.net,Lucknow,2026-01-20,M,,Influencer
+CUST00465,Chatura Apte,yashasvisingh@example.com,Pune,17/12/2025,M,,Instagram Ads
+CUST00466,Vyanjana Nagi,gangamall@example.org,Delhi,30/05/2026,M,,Influencer
+CUST00467,Neha Keer,sharafsachi@example.net,Pune,2025-09-11,Other,,Email
+CUST00468,Sanya Mutti, ,Lucknow,31/07/2025,M,43.0,Influencer
+CUST00469,Aadi Chand,yashoda83@example.net,Kolkata,29-06-2025,Other,,Referral
+CUST00470,Januja Bhagat,suhaninarula@example.net,Bengaluru,08/01/2026,Other,49.0,Google Ads
+CUST00471,Januja Sethi,chatterjeetristan@example.org,Pune,2026-03-18,,,Email
+CUST00472,Kashvi Cherian,galawaida@example.org,Lucknow,15/05/2025,F,,Influencer
+CUST00473,Hredhaan Kumar,raghavdara@example.com,Bengaluru,26/04/2026,F,,Google Ads
+CUST00474,Hamsini Chokshi,obatra@example.net,Lucknow,14-02-2025,F,30.0,Google Ads
+CUST00475,Tanvi Thaman,wishiagrawal@example.net,Ahmedabad,2025-11-09,Other,,Organic Search
+CUST00476,Vasudha Trivedi,oscardave@example.org,Kolkata,24-02-2026,M,,Organic Search
+CUST00477,Yamini Rajagopalan,rkothari@example.com,Ahmedabad,17-06-2025,,,Google Ads
+CUST00478,Sneha Deol,nitaravala@example.com,Mumbai,06/08/2026,,54.0,Google Ads
+CUST00479,Teerth Iyer,binapai@example.net,Hyderabad,12-05-2026,Other,50.0,Email
+CUST00480,Yahvi Naidu,pandeyvarsha@example.net,Ahmedabad,2024-12-16,F,18.0,Referral
+CUST00481,Bhavika Sami,virkhredhaan@example.org,Pune,27-10-2025,Other,,Organic Search
+CUST00482,Daksh Iyengar,naveen44@example.org,Hyderabad,13/06/2025,,,Influencer
+CUST00483,Samar Bali,sneha19@example.net,Lucknow,09-05-2026,Other,48.0,Referral
+CUST00484,Lopa Khanna,champak66@example.com,Chennai,26/02/2026,Other,,Google Ads
+CUST00485,Chatura Arya,samaksh97@example.org,Jaipur,2026-08-01,M,,Email
+CUST00486,Ronith Hari,saumya21@example.org,Delhi,30/06/2026,,,Referral
+CUST00487,Krishna Baria,jmallick@example.com,Kolkata,05/08/2026,M,54.0,Referral
+CUST00488,Abdul Narayanan,cdubey@example.org,Hyderabad,14-12-2024,,,Email
+CUST00489,Charvi Swaminathan,elijah58@example.org,Jaipur,12/07/2026,F,53.0,Referral
+CUST00490,Yashasvi Dutta,zyadav@example.org,Ahmedabad,2026-08-02,Other,53.0,Email
+CUST00491,Garima Narula,chaaya39@example.net,Mumbai,21/05/2025,F,,Referral
+CUST00492,Ishwar Pal,pkhosla@example.net,Pune,19/08/2025,,48.0,Email
+CUST00493,Balveer Nagi,ycomar@example.com,Lucknow,05-07-2026,M,30.0,Email
+CUST00494,Aryan Varughese,yoshita87@example.com,Jaipur,05/10/2025,M,27.0,Google Ads
+CUST00495,Ekani Varkey,charoliver@example.net,Kolkata,13/10/2024,,47.0,Referral
+CUST00496,Shivansh Kala,nchawla@example.net,Delhi,30-09-2025,,,Email
+CUST00497,Ekbal Dube,sharafgarima@example.org,Bengaluru,2026-05-01,F,28.0,Organic Search
+CUST00498,Pranav Krishnamurthy,kariaarna@example.com,Delhi,2024-11-14,,,Instagram Ads
+CUST00499,Rachita Mutti,ramachandranjagat@example.net,Jaipur,2025-06-18,Other,,Referral
+CUST00500,Chakradev Bora,yadavi14@example.net,Hyderabad,16-09-2024,M,33.0,Email
+CUST00501,Baghyawati Sarma,qrana@example.org,Pune,16/04/2025,,37.0,Instagram Ads
+CUST00502,Laban Raman,maanas45@example.org,Pune,2025-08-19,,,Organic Search
+CUST00503,Jatin Barman,rameshfrederick@example.com,Delhi,15-10-2025,,30.0,Organic Search
+CUST00504,Siddharth Sachar,naveengour@example.org,Hyderabad,2025-02-10,F,19.0,Instagram Ads
+CUST00505,Rishi Contractor,chaturashenoy@example.net,Bengaluru,30/11/2025,Other,57.0,Influencer
+CUST00506,Ekalinga Krishna,horavidhi@example.com,Mumbai,2025-10-12,M,,Organic Search
+CUST00507,Harish Mane,harieesha@example.com,Mumbai,27/05/2025,,31.0,Referral
+CUST00508,Michael Patla,priya20@example.com,Mumbai,02/08/2025,Other,,Instagram Ads
+CUST00509,Rajata Malhotra,krish57@example.com,Lucknow,08-03-2025,M,49.0,Influencer
+CUST00510,Vidhi Chopra,finnmand@example.org,,2025-07-29,F,,Google Ads
+CUST00511,Adya Bose,bahlyashica@example.net,Jaipur,2026-06-15,F,,Google Ads
+CUST00512,Simon Bansal,urmi25@example.com,Bengaluru,2024-10-04,M,,Google Ads
+CUST00513,Krish Shetty,ranganathanjanuja@example.net,Jaipur,2025-02-19,M,,Email
+CUST00514,Noah Varkey,sanayadutta@example.org,Ahmedabad,2024-09-19,,47.0,Instagram Ads
+CUST00515,Veda Parmer,kandavinaya@example.org,Bengaluru,2025-10-24,Other,,Email
+CUST00516,Vivaan Basak,zarnapatel@example.com,Mumbai,2024-10-27,M,26.0,Referral
+CUST00517,Chakradhar Baral,harshil84@example.net,Ahmedabad,16/08/2025,Other,,Referral
+CUST00518,Krisha Radhakrishnan,faras84@example.com,Mumbai,2025-03-20,,,Organic Search
+CUST00519,Zaitra Ravi,hemani77@example.net,Delhi,13-08-2026,M,,Google Ads
+CUST00520,Ria Gandhi,farajvarkey@example.net,Kolkata,2024-09-16,,46.0,Influencer
+CUST00521,Rachit Dugar,jagat36@example.com,Chennai,02/04/2025,F,49.0,Organic Search
+CUST00522,Varenya Srinivas,neelroy@example.org,Bengaluru,12/02/2026,Other,51.0,Email
+CUST00523,Naveen Desai,dindaksh@example.org,Jaipur,06/03/2025,M,,Referral
+CUST00524,Zansi Ravi,manderfrederick@example.org,Kolkata,16-03-2025,M,,Organic Search
+CUST00525,Vasatika Garde,nirjadhar@example.net,Mumbai,2025-08-01,Other,35.0,Influencer
+CUST00526,Yasti Lalla,hemasetty@example.net,Jaipur,2026-04-25,,,Organic Search
+CUST00527,Kritika Rajan,ikbalbabu@example.org,Ahmedabad,11-11-2025,,,Email
+CUST00528,Mason Char,vamakshibarad@example.net,Bengaluru,23-09-2025,,53.0,Instagram Ads
+CUST00529,Girik Subramaniam,aaravsankar@example.net,Lucknow,09-09-2025,F,,Referral
+CUST00530,Pushti Karnik,wraj@example.net,Hyderabad,2025-07-11,Other,,Email
+CUST00531,Pavani Desai,vansha31@example.com,Chennai,14-04-2026,M,60.0,Instagram Ads
+CUST00532,Aarini Gulati,amblejacob@example.net,Chennai,16/11/2025,Other,41.0,Instagram Ads
+CUST00533,Diya Rege,hredhaan26@example.net,Ahmedabad,2024-09-17,,57.0,Google Ads
+CUST00534,Pallavi Pau,mekhala36@example.net,Kolkata,2025-11-07,F,,Instagram Ads
+CUST00535,Praneel Prabhakar,tkulkarni@example.net,Lucknow,30-03-2026,,55.0,Organic Search
+CUST00536,Lakshit Dani,sanyaedwin@example.org,Jaipur,2025-05-17,,48.0,Email
+CUST00537,Hamsini Ben,lopaahluwalia@example.org,Delhi,13-02-2025,F,,Influencer
+CUST00538,Radhika Chakrabarti,lalltristan@example.com,,27/04/2026,,,Google Ads
+CUST00539,Leena Rattan,dakshesh27@example.com,Kolkata,08/11/2024,Other,26.0,Organic Search
+CUST00540,Robert Bandi,omkaarbanik@example.com,Jaipur,19-09-2024,Other,53.0,Google Ads
+CUST00541,Nakul Chadha,mugdha56@example.com,Lucknow,2025-03-03,Other,,Google Ads
+CUST00542,Ekapad Chana,ijaya54@example.org,Delhi,07-11-2025,Other,,Influencer
+CUST00543,Suhani Raval, ,Kolkata,22-11-2025,Other,45.0,Influencer
+CUST00544,Yahvi Menon,jackson84@example.net,Bengaluru,2025-09-11,M,,Google Ads
+CUST00545,Saanvi Purohit,wkohli@example.com,Pune,20/04/2026,M,36.0,Influencer
+CUST00546,Triveni Bala,qdada@example.org,Chennai,2026-08-05,M,53.0,Email
+CUST00547,Victor Mutti,hpandit@example.net,Jaipur,14-06-2025,Other,,Organic Search
+CUST00548,Yuvraj Mani,rastogihema@example.org,Chennai,19/09/2024,M,34.0,Influencer
+CUST00549,Vamakshi Murthy,tejas94@example.org,Hyderabad,16/10/2025,Other,52.0,Email
+CUST00550,Wishi Iyengar,wyattlanka@example.org,Pune,2026-07-25,M,29.0,Organic Search
+CUST00551,Ishani Dugal,darfarhan@example.net,Kolkata,2025-02-24,Other,,Instagram Ads
+CUST00552,Abeer Basak,nprabhu@example.com,Ahmedabad,01/08/2026,F,38.0,Email
+CUST00553,Vritti Goswami,mitali39@example.org,Pune,01-09-2025,Other,38.0,Google Ads
+CUST00554,Vanya Zachariah,thakkaridika@example.com,Mumbai,20-10-2024,F,,Instagram Ads
+CUST00555,Tanvi Dara,smutti@example.org,Hyderabad,24/05/2026,Other,36.0,Influencer
+CUST00556,Ladli Chaudhuri,janaki94@example.org,Ahmedabad,20-09-2024,,59.0,Instagram Ads
+CUST00557,Amruta Sinha,jasmit27@example.com,Chennai,11-10-2025,F,,Email
+CUST00558,Janya Rattan,shravya29@example.org,Kolkata,10/02/2025,M,,Instagram Ads
+CUST00559,Harish Madan,rachanaraj@example.org,Chennai,18-08-2026,,36.0,Referral
+CUST00560,Urvashi Andra,oviyatata@example.org,Mumbai,26-12-2024,F,,Influencer
+CUST00561,Vidhi Mital,champak61@example.net,Bengaluru,29-08-2026,F,,Instagram Ads
+CUST00562,Aachal Soni,senguptagaurika@example.com,Jaipur,2025-01-07,,22.0,Instagram Ads
+CUST00563,Hemangini Bahri,wdara@example.net,Chennai,29/05/2025,M,34.0,Influencer
+CUST00564,Owen Mane,ekta87@example.net,Pune,2026-08-06,,,Instagram Ads
+CUST00565,Lakshmi Mangat,kdhillon@example.net,Mumbai,30/07/2025,M,55.0,Email
+CUST00566,Oviya Ravel,buchneel@example.com,Chennai,2026-04-16,M,37.0,Referral
+CUST00567,Bishakha Loke,cmadan@example.com,Kolkata,23/02/2025,M,52.0,Google Ads
+CUST00568,Odika Ganesh,arindass@example.net,Kolkata,04-03-2026,Other,,Google Ads
+CUST00569,Fariq Kade,mekhalachauhan@example.org,Chennai,27/02/2025,M,53.0,Instagram Ads
+CUST00570,Chatura Bal,wviswanathan@example.org,Bengaluru,2024-10-27,,,Google Ads
+CUST00571,Frado Ramakrishnan,veer34@example.com,Chennai,25-11-2024,F,,Google Ads
+CUST00572,Onkar Balakrishnan,parikheshana@example.com,Delhi,2025-12-07,M,,Email
+CUST00573,Sai Deshmukh,tanmayisaran@example.net,Mumbai,14-08-2025,M,,Referral
+CUST00574,Idika Subramaniam,gauravsathe@example.com,Delhi,16/12/2025,F,57.0,Google Ads
+CUST00575,Nachiket Mitter,acharyalaban@example.com,Ahmedabad,02/06/2025,Other,,Referral
+CUST00576,Vyanjana Sood,aditya64@example.net,Delhi,06/04/2025,F,,Referral
+CUST00577,Kashvi Gulati,zsarkar@example.org,Delhi,25/02/2025,Other,,Referral
+CUST00578,Kritika Kannan,fariq63@example.net,Ahmedabad,07/01/2025,F,,Google Ads
+CUST00579,Bhavani Wali,nitara31@example.org,Hyderabad,16-03-2026,M,19.0,Influencer
+CUST00580,Tamanna Sethi,vyanjana35@example.org,Kolkata,19-12-2024,F,,Influencer
+CUST00581,Quincy Chaudry,amruta27@example.net,Jaipur,30/12/2024,,,Organic Search
+CUST00582,Matthew Aurora,vkalla@example.com,Lucknow,2024-09-17,Other,50.0,Organic Search
+CUST00583,Kamya Sheth,narayananfaris@example.org,Jaipur,24/04/2025,F,57.0,Influencer
+CUST00584,Ekbal Singhal,rehaankrishna@example.com,Ahmedabad,2024-10-22,F,,Instagram Ads
+CUST00585,Yuvraj Rajan,vkota@example.org,Ahmedabad,2026-05-01,Other,20.0,Influencer
+CUST00586,Sathvik Solanki,umuni@example.org,Kolkata,02/02/2025,,,Instagram Ads
+CUST00587,Jason Kulkarni,mmisra@example.com,Jaipur,08-12-2025,Other,34.0,Organic Search
+CUST00588,Isaiah Keer,anair@example.org,Kolkata,13-06-2026,M,42.0,Influencer
+CUST00589,Meghana Kibe,basakvaishnavi@example.net,Chennai,06/04/2026,Other,48.0,Influencer
+CUST00590,Gaurav Kothari,xalakchand@example.net,Ahmedabad,2025-11-15,M,35.0,Google Ads
+CUST00591,Darpan Parekh,hredhaandass@example.com,Delhi,2025-12-01,M,,Email
+CUST00592,Reva Hans,purohitishita@example.net,Ahmedabad,2025-02-26,,,Instagram Ads
+CUST00593,Vedhika Sarma,vrishti39@example.org,Bengaluru,2024-12-18,F,50.0,Influencer
+CUST00594,Upadhriti Maharaj,ekapadwali@example.org,Bengaluru,2025-10-08,F,43.0,Email
+CUST00595,Jeevika Setty,toorladli@example.net,Pune,01-08-2025,F,,Google Ads
+CUST00596,Januja Khare,dev86@example.org,Kolkata,2025-01-23,F,,Google Ads
+CUST00597,Mitesh Mandal,nimrat51@example.org,Chennai,24-09-2025,M,42.0,Instagram Ads
+CUST00598,Caleb Dayal, ,Hyderabad,2025-09-23,,56.0,Google Ads
+CUST00599,Azad Rama,nvora@example.net,Lucknow,27/08/2025,M,60.0,Influencer
+CUST00600,Jeevika Kant,aryasathvik@example.net,Bengaluru,11-11-2025,,41.0,Email
+CUST00601,Upadhriti Bhat,ojasvi50@example.net,Kolkata,31-08-2025,,,Influencer
+CUST00602,Ekavir Modi,kalitazilmil@example.org,Lucknow,22-03-2025,F,32.0,Referral
+CUST00603,Lekha Gupta,yuvrajgola@example.net,Jaipur,23-11-2024,F,18.0,Influencer
+CUST00604,Hitesh Parmar,gsane@example.org,Kolkata,2026-03-05,Other,24.0,Organic Search
+CUST00605,Yamini Nazareth,saanvipandey@example.com,Lucknow,05-04-2026,,,Email
+CUST00606,Kamya Sachar,mnaik@example.org,Hyderabad,13/10/2025,,,Referral
+CUST00607,Keya Kumar,sneha76@example.org,Lucknow,22/10/2025,,60.0,Email
+CUST00608,Amol Vasa,chasmumahuja@example.com,Ahmedabad,2026-02-16,F,,Referral
+CUST00609,Divya Bains,yasti89@example.net,Lucknow,21-08-2026,M,58.0,Instagram Ads
+CUST00610,Triveni Parekh,lakshitlanka@example.com,Ahmedabad,2025-01-01,,34.0,Referral
+CUST00611,Viraj Kunda,george96@example.net,Lucknow,2026-06-14,,,Organic Search
+CUST00612,Ekta Subramanian,vinayachandran@example.net,Jaipur,04-07-2026,M,,Google Ads
+CUST00613,Lakshmi Brar,nattijaya@example.com,Ahmedabad,18-12-2025,F,,Google Ads
+CUST00614,Utkarsh Apte,tbhagat@example.net,Lucknow,2025-07-08,F,,Google Ads
+CUST00615,Eta Thakkar,michaelbedi@example.net,Bengaluru,11-10-2024,,,Referral
+CUST00616,Sanaya Thaman,kapadiarachana@example.com,Kolkata,20-02-2026,F,22.0,Influencer
+CUST00617,Kevin Nayar,sonichandran@example.net,Jaipur,01/04/2026,Other,35.0,Influencer
+CUST00618,Mohini Thaker,wde@example.org,Ahmedabad,2025-06-26,M,44.0,Influencer
+CUST00619,Vinaya Rana,yatinkibe@example.org,Jaipur,2025-08-24,M,,Email
+CUST00620,Ekiya Chakraborty,sachdevpallavi@example.com,Kolkata,22/03/2025,F,,Influencer
+CUST00621,Hemangini Bajwa,omkaar59@example.com,Ahmedabad,2025-05-20,M,32.0,Referral
+CUST00622,Chaitanya Kaur,kashvidugal@example.net,Chennai,04/12/2025,M,34.0,Referral
+CUST00623,Chatura Kibe,bhavnaatwal@example.com,Kolkata,2026-05-18,Other,,Referral
+CUST00624,Dalaja Sengupta,vbajaj@example.org,Hyderabad,24/01/2026,Other,,Email
+CUST00625,Samar Virk,vasudha92@example.net,Hyderabad,2026-02-26,Other,30.0,Influencer
+CUST00626,Krisha Vyas,kumeronkar@example.org,Delhi,28/01/2026,M,,Email
+CUST00627,Chatresh Shroff,bhavsarlipika@example.net,Ahmedabad,04-04-2025,M,,Organic Search
+CUST00628,Hritik Bahl,libni36@example.net,Pune,26-03-2025,Other,54.0,Instagram Ads
+CUST00629,Diya Sundaram,grewalrushil@example.net,Kolkata,16-08-2026,M,43.0,Organic Search
+CUST00630,Balveer Kota,gauri76@example.net,Jaipur,2026-08-09,M,,Influencer
+CUST00631,Indira Pant,warinder84@example.org,Chennai,2025-01-03,Other,34.0,Referral
+CUST00632,Ayushman Mammen,maxom@example.com,Lucknow,06/12/2025,F,,Email
+CUST00633,Lavanya Verma,omishakhosla@example.net,Chennai,28/12/2025,Other,54.0,Influencer
+CUST00634,Forum Sen,samueldevi@example.net,Hyderabad,30-12-2024,Other,,Organic Search
+CUST00635,Lakshit More,qushidhillon@example.net,Delhi,2025-10-06,F,18.0,Organic Search
+CUST00636,Eesha Bir,goureesha@example.org,Delhi,15/07/2026,,,Organic Search
+CUST00637,Odika Sabharwal,saanvi42@example.org,Pune,17/02/2026,M,28.0,Google Ads
+CUST00638,Atharv Loke,vincentkashyap@example.net,Ahmedabad,27/11/2024,M,,Referral
+CUST00639,Vansha Desai,lprakash@example.com,Jaipur,30/09/2024,Other,44.0,Referral
+CUST00640,Nihal Hans,bachittarrege@example.org,Lucknow,31-08-2025,F,,Referral
+CUST00641,Tristan Jain,dominicgoel@example.com,Chennai,10/07/2026,,46.0,Organic Search
+CUST00642,Ekta Shankar,prisharavel@example.org,Pune,29-05-2026,F,,Organic Search
+CUST00643,Dhriti Ramesh,vermaikbal@example.com,Lucknow,23-11-2025,M,39.0,Referral
+CUST00644,Yatan Venkataraman,jbaral@example.com,Pune,06/08/2025,,,Email
+CUST00645,Ranveer Manne,trao@example.com,Jaipur,18-09-2025,,19.0,Email
+CUST00646,Chaitaly Bhagat,ubikaseth@example.org,Pune,2025-08-10,M,43.0,Instagram Ads
+CUST00647,Pranit Deshmukh,usachdev@example.com,Ahmedabad,2026-02-14,M,51.0,Instagram Ads
+CUST00648,Saksham Sha,krishnaekiya@example.net,Lucknow,29/09/2024,,,Organic Search
+CUST00649,Jatin Chand,senguptajanani@example.org,Delhi,22-12-2025,F,,Referral
+CUST00650,Yasti Dutta,crai@example.org,Ahmedabad,24/09/2025,,,Google Ads
+CUST00651,Nicholas Dhillon,charansaini@example.com,Jaipur,30-06-2026,,,Influencer
+CUST00652,Bhavya Golla,deepsamaksh@example.org,Jaipur,22-04-2025,Other,32.0,Organic Search
+CUST00653,Advik Shanker,itara@example.org,Chennai,04/12/2025,F,18.0,Referral
+CUST00654,Wazir Kalla,asetty@example.com,Ahmedabad,23/11/2025,,,Organic Search
+CUST00655,Yash Mall,chandrangoyal@example.org,Bengaluru,08/11/2024,Other,,Google Ads
+CUST00656,Balhaar Dhillon,misragarima@example.org,Jaipur,21/10/2024,F,,Organic Search
+CUST00657,Pranav Edwin,peter79@example.com,Pune,2024-10-17,F,,Referral
+CUST00658,Chandani Naidu,ladli16@example.net,Jaipur,14-07-2026,,22.0,Google Ads
+CUST00659,Krish Dara,forum86@example.net,Mumbai,28/10/2024,,,Google Ads
+CUST00660,Dalbir Chopra,sulebhavna@example.com,Bengaluru,10/02/2025,M,,Referral
+CUST00661,Aashi Vora,kai99@example.com,Ahmedabad,2025-11-24,F,,Google Ads
+CUST00662,Waida Gole,binahari@example.org,Kolkata,21/09/2025,,,Organic Search
+CUST00663,Jacob Johal,csachdev@example.com,Bengaluru,06-12-2024,F,43.0,Influencer
+CUST00664,Advay Jaggi,aachal14@example.com,Delhi,21/05/2025,Other,18.0,Email
+CUST00665,Abeer Comar,harita69@example.net,Kolkata,2025-09-11,,20.0,Organic Search
+CUST00666,Rishi Narayanan,varenya70@example.net,Mumbai,04-08-2026,F,,Google Ads
+CUST00667,Triveni Yadav,turvi60@example.net,Bengaluru,18-12-2024,M,,Google Ads
+CUST00668,Anirudh Joshi,irya12@example.com,Bengaluru,15/04/2025,F,,Google Ads
+CUST00669,Keya Warrior,lopagrover@example.net,Kolkata,10-05-2026,F,55.0,Organic Search
+CUST00670,Divya Balay,odika17@example.org,Bengaluru,2024-12-05,,,Instagram Ads
+CUST00671,Tarak Vohra,parth15@example.org,Delhi,2025-06-06,Other,,Email
+CUST00672,Sachi Toor,subramanianxiti@example.org,Bengaluru,2026-03-26,F,24.0,Organic Search
+CUST00673,Dayita Narang,guneetvarty@example.net,Chennai,2025-01-26,,,Email
+CUST00674,Balhaar Sharaf,hvig@example.org,Bengaluru,2026-08-27,Other,34.0,Organic Search
+CUST00675,Gagan Nath,gbatra@example.net,Ahmedabad,23-04-2025,,,Referral
+CUST00676,Arin Muni,ekaniiyer@example.org,Ahmedabad,17-03-2026,F,,Referral
+CUST00677,Ridhi Dalal,manthan24@example.org,Jaipur,06/04/2025,M,,Email
+CUST00678,Samuel Palla,anika24@example.net,Bengaluru,2024-09-22,Other,,Email
+CUST00679,Deepa Nigam,ibedi@example.org,Jaipur,2025-03-07,F,49.0,Influencer
+CUST00680,Hitesh Rajagopal,chadhapooja@example.com,Chennai,16/08/2025,Other,51.0,Instagram Ads
+CUST00681,Ishani Muni,rudra81@example.com,Delhi,2025-01-18,F,30.0,Instagram Ads
+CUST00682,Upadhriti Chatterjee,rmukherjee@example.net,Kolkata,25-10-2025,Other,32.0,Instagram Ads
+CUST00683,Upma Kata,maanaskuruvilla@example.com,Ahmedabad,2026-02-05,M,58.0,Referral
+CUST00684,Ekta Setty,ebalan@example.com,Kolkata,21-06-2025,M,35.0,Email
+CUST00685,Triya Garde,ijaya99@example.org,Pune,2024-12-02,F,,Instagram Ads
+CUST00686,Hredhaan Nanda,mittaltriya@example.com,Hyderabad,2025-09-12,F,60.0,Influencer
+CUST00687,Yagnesh Dutt,erajagopalan@example.com,Delhi,11-11-2025,,,Email
+CUST00688,Radhika Oommen,oscarbrahmbhatt@example.net,Kolkata,08/02/2025,F,,Influencer
+CUST00689,Ishwar Sheth,gunbir72@example.com,Delhi,14/07/2026,,,Referral
+CUST00690,Ikbal Raghavan,warda01@example.org,Chennai,01-08-2026,,,Influencer
+CUST00691,Manan Dixit,swali@example.com,Lucknow,2026-04-23,,,Organic Search
+CUST00692,Rohan Jha,chandani94@example.com,Kolkata,29/11/2025,M,,Influencer
+CUST00693,Gaurav Anand,sdatta@example.org,Jaipur,2026-02-10,Other,32.0,Referral
+CUST00694,Aadi Parmer,mandaazaan@example.org,Pune,2025-06-04,F,,Google Ads
+CUST00695,Eesha Raja,braj@example.net,,2025-07-19,F,37.0,Influencer
+CUST00696,Vaishnavi Dewan,leenaparsa@example.com,Lucknow,11/02/2025,M,48.0,Organic Search
+CUST00697,Krish Apte,babumaanas@example.net,Lucknow,01-01-2025,M,37.0,Email
+CUST00698,Laban Chad,ojasvishah@example.net,Kolkata,11-06-2026,M,,Referral
+CUST00699,Pranit Sha,ysengupta@example.com,Kolkata,21/11/2025,M,32.0,Email
+CUST00700,Abhimanyu Tara,yachanaluthra@example.com,Kolkata,21-02-2025,M,54.0,Referral
+CUST00701,Bahadurjit Barad,hpillay@example.net,Hyderabad,11-07-2026,,,Influencer
+CUST00702,Lucky Vyas,udyati81@example.net,Jaipur,24-08-2025,,43.0,Google Ads
+CUST00703,Yatan Sodhi,zachariadevika@example.net,Mumbai,14/06/2026,M,34.0,Organic Search
+CUST00704,Advay Singh,evala@example.net,Kolkata,19-10-2024,F,48.0,Organic Search
+CUST00705,Ira Menon,oliver09@example.net,Lucknow,22/02/2026,F,,Referral
+CUST00706,Darsh Solanki,charanmanne@example.net,Lucknow,18-04-2025,,40.0,Referral
+CUST00707,Vedhika Butala, ,Lucknow,05/12/2025,Other,,Influencer
+CUST00708,Anvi Kurian,choudhuryowen@example.net,Ahmedabad,2025-03-12,F,41.0,Email
+CUST00709,Kala Gill,warinder72@example.net,Mumbai,2026-02-26,F,,Google Ads
+CUST00710,Frado Dhillon,warhisachar@example.com,Bengaluru,25/05/2026,M,48.0,Referral
+CUST00711,Oliver Kade,chatura41@example.org,Jaipur,2025-03-02,Other,57.0,Email
+CUST00712,Vamakshi Mitra,owalia@example.com,Bengaluru,10-01-2025,M,,Google Ads
+CUST00713,Urvi Lala, ,Lucknow,17-01-2026,,18.0,Organic Search
+CUST00714,Lavanya Mutti,chatterjeeirya@example.com,Pune,11-07-2026,Other,,Email
+CUST00715,Gautami Madan,guneet49@example.com,Hyderabad,25/11/2025,,,Organic Search
+CUST00716,Robert Venkatesh, ,Jaipur,09-08-2025,F,47.0,Instagram Ads
+CUST00717,Advik Sabharwal,vohrahemang@example.net,Jaipur,2026-01-09,,28.0,Referral
+CUST00718,Bhanumati Krishnamurthy,bahadurjitbajwa@example.net,Chennai,30-07-2025,Other,,Instagram Ads
+CUST00719,Jairaj Dar,dekeya@example.net,Pune,17-11-2024,M,,Referral
+CUST00720,Indrajit Gour,chaitaly71@example.net,Delhi,2026-03-15,,,Influencer
+CUST00721,Prisha Naik,neel14@example.org,Lucknow,04-08-2025,F,54.0,Organic Search
+CUST00722,Darpan Kuruvilla,pranav71@example.com,Lucknow,14/06/2025,F,26.0,Google Ads
+CUST00723,Maya Gokhale,jchopra@example.net,JAIPUR,18/08/2026,,,Google Ads
+CUST00724,Hitesh Sathe,harshil01@example.org,Lucknow,19-03-2026,Other,52.0,Google Ads
+CUST00725,Sanaya Bahl,pdixit@example.net,Delhi,28/10/2025,Other,,Referral
+CUST00726,Madhavi Lata,forumraman@example.net,Pune,12/09/2024,F,29.0,Influencer
+CUST00727,Vanya Sarin,iboase@example.org,Pune,14-09-2024,F,32.0,Referral
+CUST00728,Jairaj Wason,gauri46@example.org,Ahmedabad,2024-09-14,,41.0,Organic Search
+CUST00729,Jasmit Warrior,faris74@example.net,Ahmedabad,11/12/2025,F,44.0,Referral
+CUST00730,Leena Halder,madhavi15@example.com,Hyderabad,05/02/2025,F,22.0,Organic Search
+CUST00731,Ranveer Dey,hansaryan@example.net,Ahmedabad,12-11-2024,,,Instagram Ads
+CUST00732,Vrinda Ramachandran,zachariahdarika@example.com,Kolkata,30-08-2026,,54.0,Influencer
+CUST00733,Amol Bansal,daksh50@example.com,,2025-10-01,M,,Email
+CUST00734,Manthan Kaul,bansallohit@example.com,Jaipur,2024-12-06,M,,Referral
+CUST00735,Chakradev Kibe,akshaygera@example.net,Ahmedabad,26/12/2025,Other,21.0,Organic Search
+CUST00736,Gunbir Shan,devanshcherian@example.org,Ahmedabad,17-10-2024,M,55.0,Organic Search
+CUST00737,Dev Jain,znazareth@example.net,Chennai,04/09/2025,F,,Instagram Ads
+CUST00738,Jai Devan,tanay09@example.org,Chennai,13/01/2026,F,25.0,Instagram Ads
+CUST00739,Anusha Dhaliwal,sganguly@example.com,Ahmedabad,11-05-2025,M,42.0,Organic Search
+CUST00740,Yagnesh Baria,harishpuri@example.org,Kolkata,15-10-2025,F,,Influencer
+CUST00741,Faris Ahuja,golagaurav@example.net,Delhi,23-09-2024,F,,Referral
+CUST00742,Omaja Soni,samueldhar@example.net,Ahmedabad,25/12/2025,F,26.0,Instagram Ads
+CUST00743,Nisha Khare,baljiwangole@example.net,Pune,26-03-2025,,52.0,Influencer
+CUST00744,Charvi Pall,jagrawal@example.org,Hyderabad,06/09/2025,,46.0,Influencer
+CUST00745,Janaki Zacharia,ucchaljoshi@example.com,Bengaluru,28-01-2025,Other,53.0,Instagram Ads
+CUST00746,Manthan Som,kgoda@example.net,Delhi,2024-10-20,Other,,Referral
+CUST00747,Januja Mane,radhikakrishnamurthy@example.com,,2026-07-08,F,36.0,Organic Search
+CUST00748,Caleb Chawla,yogipatrick@example.org,Lucknow,30-11-2025,M,,Referral
+CUST00749,Yutika D’Alia,keersai@example.net,Mumbai,31/03/2026,M,26.0,Email
+CUST00750,Rushil Nanda,imarannanda@example.org,,03/11/2025,F,57.0,Instagram Ads
+CUST00751,Ryan Prashad,ethansinha@example.net,Jaipur,21-11-2024,,,Organic Search
+CUST00752,Maanav Kalita,ygokhale@example.com,Chennai,26-08-2025,Other,,Influencer
+CUST00753,Jagrati Madan,gautamidatta@example.org,Ahmedabad,19-12-2024,,29.0,Email
+CUST00754,Avni Deshpande,shrofftara@example.com,Hyderabad,23/01/2026,M,25.0,Influencer
+CUST00755,Thomas Merchant,onkarkarpe@example.org,Kolkata,13/01/2025,Other,58.0,Instagram Ads
+CUST00756,Tarak Solanki,amallick@example.net,Hyderabad,05-07-2025,Other,,Influencer
+CUST00757,Yug Narang,lkapadia@example.org,Chennai,17-07-2025,M,,Email
+CUST00758,Omisha Basu,singhalyamini@example.org,Lucknow,01-07-2026,F,,Organic Search
+CUST00759,Varenya Chaudhari,ptandon@example.org,Delhi,2025-07-15,,,Organic Search
+CUST00760,Niharika Kamdar,jagratimerchant@example.org,Bengaluru,19/10/2025,Other,38.0,Google Ads
+CUST00761,Amol Srinivasan,neel79@example.net,Chennai,22-12-2025,Other,,Instagram Ads
+CUST00762,Ubika Devi,ygoyal@example.com,Kolkata,06/11/2025,F,42.0,Influencer
+CUST00763,Ekavir Rajan,bachittar46@example.com,Pune,2025-12-07,Other,,Instagram Ads
+CUST00764,Faris Nayak,varmajanuja@example.org,Hyderabad,27/01/2026,Other,37.0,Instagram Ads
+CUST00765,Udyati Baria,jeevika28@example.net,Bengaluru,30/11/2024,M,,Influencer
+CUST00766,Lakshit Natt,ishaansridhar@example.net,Hyderabad,2024-10-30,,,Referral
+CUST00767,Umang Nagi,amara86@example.com,Mumbai,2026-07-20,F,,Organic Search
+CUST00768,Hemani Sethi,hthaker@example.org,Jaipur,21-10-2024,Other,,Email
+CUST00769,Siya Pillai,guhatanvi@example.org,Mumbai,16-08-2025,M,,Instagram Ads
+CUST00770,Bhavya Bose,galaanya@example.org,Pune,08-11-2024,F,,Referral
+CUST00771,Matthew Jayaraman,memonomaja@example.net,Chennai,26-01-2026,M,,Instagram Ads
+CUST00772,Urvi Palan,vsawhney@example.net,Lucknow,2025-10-06,M,,Referral
+CUST00773,Dev Bains,zinalnayak@example.com,Pune,2024-09-27,F,,Influencer
+CUST00774,Vedika Wagle,tshankar@example.net,Bengaluru,02/11/2025,,,Instagram Ads
+CUST00775,Onveer Lad,vedaprabhu@example.com,Kolkata,2024-12-16,,,Influencer
+CUST00776,Manbir Pandit,tamanna29@example.org,Pune,20/03/2026,F,60.0,Organic Search
+CUST00777,Qabil Gill,neelkhanna@example.org,Delhi,06-02-2026,,,Organic Search
+CUST00778,Jonathan Sastry,kala23@example.net,Hyderabad,2024-10-11,Other,,Organic Search
+CUST00779,Hemangini Divan,saumya82@example.net,Chennai,2026-02-03,Other,19.0,Organic Search
+CUST00780,Nidhi Tata,taranagarajan@example.org,Chennai,2025-04-17,F,40.0,Influencer
+CUST00781,Chakrika Som,manan97@example.com,Kolkata,2024-09-15,M,59.0,Referral
+CUST00782,Banjeet Dewan, ,Ahmedabad,21-01-2026,,33.0,Organic Search
+CUST00783,Sanaya Parikh,narainchristopher@example.net,Mumbai,30/11/2025,,,Influencer
+CUST00784,Arunima Hayre,chackosanaya@example.net,Hyderabad,17-12-2025,M,,Instagram Ads
+CUST00785,Yauvani Ramesh,vrittinadkarni@example.net,Lucknow,08-01-2026,M,,Organic Search
+CUST00786,Jalsa Rao,prishapingle@example.com,Lucknow,2025-11-21,,59.0,Instagram Ads
+CUST00787,Hemani Panchal,sanaya81@example.org,Delhi,2025-06-07,M,60.0,Organic Search
+CUST00788,Ojasvi Savant,nihal66@example.org,Pune,18-02-2026,,,Influencer
+CUST00789,Maanas Johal,vaishnavi85@example.org,Pune,06-05-2026,,40.0,Influencer
+CUST00790,Gaurang Ahuja,amahajan@example.org,Lucknow,2026-07-15,,,Instagram Ads
+CUST00791,Ryan Grewal,jmann@example.com,Jaipur,17/10/2025,M,40.0,Referral
+CUST00792,Daksha Tak,bkapur@example.org,Hyderabad,2024-10-12,,,Organic Search
+CUST00793,Urmi Dash,omisha27@example.net,Jaipur,31/12/2024,F,,Referral
+CUST00794,Jagdish Malhotra,mbhavsar@example.net,Delhi,20/12/2025,F,22.0,Google Ads
+CUST00795,Rajata Kuruvilla,xdar@example.net,Ahmedabad,30-05-2025,F,,Organic Search
+CUST00796,Aashi Gaba,dhingraekaja@example.com,Lucknow,21-02-2026,F,,Organic Search
+CUST00797,Ishanvi Gade,mahajanjalsa@example.com,Hyderabad,06/06/2026,M,,Organic Search
+CUST00798,Chanakya Mann,faraj83@example.net,Lucknow,14-12-2025,M,41.0,Influencer
+CUST00799,Oliver Naidu,charvi45@example.org,Mumbai,21/01/2025,Other,23.0,Google Ads
+CUST00800,Maanas Arya,zarnamanda@example.com,Mumbai,01/10/2025,Other,39.0,Organic Search
+CUST00801,Harini Gaba,kamdarmohammed@example.net,Jaipur,26/03/2026,Other,,Google Ads
+CUST00802,Ishaan Sahni,hbose@example.org,Lucknow,2025-02-18,Other,48.0,Influencer
+CUST00803,Ijaya Muni,liam79@example.net,Pune,2026-07-08,M,23.0,Influencer
+CUST00804,Orinder Modi,danitristan@example.org,Pune,2026-03-15,Other,34.0,Email
+CUST00805,Utkarsh Mohanty,shauryade@example.org,Lucknow,2026-05-21,F,41.0,Referral
+CUST00806,Faras Bahl,csankar@example.org,Hyderabad,14-07-2025,M,23.0,Influencer
+CUST00807,Upasna Dani,caleb14@example.net,Ahmedabad,2024-11-28,,,Email
+CUST00808,Jatin Jha,qasimpanchal@example.org,Delhi,19-09-2024,Other,34.0,Instagram Ads
+CUST00809,Ijaya Pandey,xitikhurana@example.net,Ahmedabad,2024-11-16,Other,52.0,Organic Search
+CUST00810,Akshay Wadhwa,rehaanmanda@example.org,Kolkata,27-10-2025,F,45.0,Referral
+CUST00811,Hardik Kala,speri@example.net,Kolkata,23/06/2026,M,,Organic Search
+CUST00812,Pratyush Pant,nsamra@example.net,Pune,23-01-2025,Other,,Organic Search
+CUST00813,Dipta Dasgupta,hchoudhary@example.org,Hyderabad,22-02-2025,F,,Influencer
+CUST00814,Bhavya Baria,narangwakeeta@example.org,Bengaluru,2025-09-03,M,51.0,Email
+CUST00815,Devika Sawhney,nikitamannan@example.com,Chennai,16/06/2025,Other,20.0,Influencer
+CUST00816,Vamakshi Pillai,agastyaswamy@example.net,Bengaluru,2025-01-25,F,,Email
+CUST00817,Frederick Dar,megharattan@example.net,Mumbai,2024-11-26,F,59.0,Instagram Ads
+CUST00818,Om Bhattacharyya,rushil53@example.net,Delhi,11-11-2025,,,Referral
+CUST00819,Jason Kaul,rtata@example.net,Chennai,12/05/2026,M,,Organic Search
+CUST00820,Mugdha Parekh,fravel@example.net,Bengaluru,17/03/2026,Other,,Google Ads
+CUST00821,Hritik Das,vrishti73@example.net,,31-03-2025,,,Google Ads
+CUST00822,Hardik Bera,taraavi@example.org,Mumbai,22-07-2026,Other,22.0,Influencer
+CUST00823,Michael Mitter,bosezinal@example.com,Pune,14-06-2025,M,27.0,Instagram Ads
+CUST00824,Chaaya Tank,qthaman@example.net,Kolkata,05-04-2026,Other,,Influencer
+CUST00825,Azad Sani,rajagopalshivani@example.com,Jaipur,2025-05-17,,43.0,Influencer
+CUST00826,Tripti Banik,goelchavvi@example.net,Bengaluru,2026-05-19,,,Referral
+CUST00827,Krish Muni,wsura@example.org,Pune,08-01-2025,M,39.0,Organic Search
+CUST00828,Upma Soni,yashawinibhalla@example.com,Hyderabad,26/10/2025,M,,Email
+CUST00829,Ira Mane,darsh09@example.org,Pune,2025-03-20,M,,Instagram Ads
+CUST00830,Ikshita Bala,lajita16@example.com,Ahmedabad,13-12-2024,F,19.0,Organic Search
+CUST00831,Indali Bhalla,yugkeer@example.net,Mumbai,27/08/2026,Other,46.0,Instagram Ads
+CUST00832,Dominic Mody,nazarethomkaar@example.org,Bengaluru,24/04/2025,M,,Email
+CUST00833,Triveni Sami,bloke@example.net,Delhi,04-10-2025,F,,Instagram Ads
+CUST00834,Edhitha Purohit,knaidu@example.org,Delhi,16-08-2025,M,57.0,Google Ads
+CUST00835,Samesh Nayar,zthakkar@example.net,Delhi,16-04-2026,M,,Instagram Ads
+CUST00836,Januja Sarin,watikaborra@example.net,Lucknow,14/05/2025,M,24.0,Organic Search
+CUST00837,Champak Mishra,nkara@example.net,Lucknow,13-02-2025,F,,Instagram Ads
+CUST00838,Gayathri Mahajan,walivaishnavi@example.com,Lucknow,02-08-2026,Other,31.0,Influencer
+CUST00839,Chasmum Thaman, ,Chennai,2025-02-10,Other,44.0,Email
+CUST00840,Yutika Setty,anirudhvarty@example.org,Jaipur,07/07/2025,F,,Instagram Ads
+CUST00841,Unni Loyal,hbhasin@example.org,Mumbai,2025-11-01,,,Instagram Ads
+CUST00842,Wridesh Dora,radhika65@example.org,Bengaluru,2025-06-01,M,,Organic Search
+CUST00843,Amara Mangat,aahanakeer@example.com,Ahmedabad,12-12-2025,F,,Organic Search
+CUST00844,Rehaan Bala,dayitashetty@example.com,Delhi,2025-03-02,M,49.0,Email
+CUST00845,Pahal Bansal,nathanielmahajan@example.org,Chennai,20/10/2025,F,51.0,Influencer
+CUST00846,Patrick Basak,dbahri@example.org,Jaipur,02/10/2024,,60.0,Referral
+CUST00847,Devansh Ray,gautam62@example.org,Hyderabad,2025-04-26,F,,Google Ads
+CUST00848,Zayan Taneja,khannajason@example.com,Bengaluru,2024-12-01,Other,,Referral
+CUST00849,Warinder Sampath,maanaschhabra@example.org,Ahmedabad,07-05-2025,M,,Google Ads
+CUST00850,Ria Rege,daksh78@example.com,Bengaluru,2025-02-13,M,,Influencer
+CUST00851,Edhitha Sampath,rkoshy@example.org,Chennai,28-01-2026,Other,,Google Ads
+CUST00852,Darika Bail,bhagatwriddhish@example.com,Hyderabad,2025-05-31,F,32.0,Organic Search
+CUST00853,Janani Dara,saanvirama@example.org,Ahmedabad,14-10-2025,,,Google Ads
+CUST00854,Aadhya Mitra,keerchameli@example.org,Chennai,29/06/2026,F,35.0,Referral
+CUST00855,Reva Nadig,rbandi@example.org,Bengaluru,2026-05-23,M,,Organic Search
+CUST00856,Urishilla Sachar,pahal12@example.net,,27/04/2026,F,56.0,Email
+CUST00857,Indira Salvi,sudiksha00@example.net,Delhi,18-03-2025,F,,Google Ads
+CUST00858,Laban Aggarwal,oiyengar@example.com,Ahmedabad,17-12-2025,Other,45.0,Google Ads
+CUST00859,Indrajit Dugar,zaitrade@example.net,Kolkata,25/04/2025,F,,Instagram Ads
+CUST00860,Siya Sridhar,abhaghose@example.net,Bengaluru,18/01/2026,,50.0,Organic Search
+CUST00861,Baghyawati Issac,sachdevajhalak@example.org,Kolkata,12-11-2025,M,33.0,Influencer
+CUST00862,Udarsh Bail,karnikgaurav@example.com,Kolkata,2025-06-22,F,33.0,Instagram Ads
+CUST00863,Chandran Rattan,jlad@example.org,Pune,01/02/2025,,55.0,Organic Search
+CUST00864,Jacob Atwal,rsetty@example.com,Delhi,02/08/2026,,,Email
+CUST00865,Rayaan Lata,warda62@example.com,Bengaluru,06-12-2024,M,39.0,Referral
+CUST00866,Barkha Gulati,agole@example.org,Pune,21/05/2026,F,,Email
+CUST00867,Warinder Seshadri,kalashanker@example.org,Jaipur,2024-10-02,Other,,Referral
+CUST00868,Ekiya Rao,leelasampath@example.net,Lucknow,19/09/2024,Other,53.0,Influencer
+CUST00869,Girish Bhargava,natarajanwahab@example.com,Hyderabad,15-11-2025,Other,,Email
+CUST00870,Abdul Kulkarni,zmittal@example.net,Hyderabad,27-06-2026,F,,Referral
+CUST00871,Praneel Lad,yahvitailor@example.com,Mumbai,2025-06-06,,51.0,Organic Search
+CUST00872,Gaurav Nadig,qdhar@example.org,Jaipur,06-06-2026,Other,41.0,Google Ads
+CUST00873,Xalak Mand,qushi44@example.net,Mumbai,25/04/2025,F,22.0,Google Ads
+CUST00874,Zansi Munshi,ugala@example.net,Mumbai,02/05/2026,,31.0,Referral
+CUST00875,Ria Bera,manthanbhagat@example.org,Jaipur,29/08/2026,,46.0,Referral
+CUST00876,Abha Gade,hsarin@example.com,Mumbai,2025-01-21,F,,Organic Search
+CUST00877,Vedhika Shankar,uchowdhury@example.org,Chennai,11-10-2024,Other,,Organic Search
+CUST00878,Samar Mander,omtrivedi@example.com,Lucknow,10/12/2024,Other,34.0,Organic Search
+CUST00879,Aayush Vora,omajabose@example.org,Pune,22/10/2025,M,,Google Ads
+CUST00880,Falguni Bal,jairaj65@example.net,Delhi,19-03-2026,Other,29.0,Google Ads
+CUST00881,Ekiya Dube,bumbtriveni@example.net,Mumbai,2026-07-12,Other,,Referral
+CUST00882,Amruta Ahluwalia,caleb97@example.com,Hyderabad,2025-12-30,M,40.0,Referral
+CUST00883,Siddharth Bava,ekantika01@example.net,Jaipur,26/07/2026,,25.0,Organic Search
+CUST00884,George Rastogi,pranav36@example.org,Delhi,29/07/2026,Other,,Email
+CUST00885,Nicholas Rama,pmane@example.net,Pune,26-09-2024,Other,,Influencer
+CUST00886,Vritti Sankaran,karan51@example.com,Delhi,31-12-2024,,,Instagram Ads
+CUST00887,Sanaya Rama,kloyal@example.net,Jaipur,2025-09-16,M,,Referral
+CUST00888,Jyoti Grewal,fsandhu@example.org,Chennai,2025-07-13,F,,Google Ads
+CUST00889,Udarsh Dubey,ovyas@example.net,Mumbai,2025-09-16,,,Google Ads
+CUST00890,Upadhriti Sarkar,sridharcharita@example.org,Chennai,24/09/2025,M,,Referral
+CUST00891,Yuvraj Virk,kmerchant@example.org,Delhi,21/08/2026,,41.0,Referral
+CUST00892,Yochana Chokshi,gsachar@example.com,Chennai,13/10/2025,,23.0,Email
+CUST00893,Isha Kumar,thakuramol@example.org,Kolkata,31/12/2025,Other,,Google Ads
+CUST00894,Praneel Gopal,fbath@example.com,Lucknow,27-02-2026,F,,Instagram Ads
+CUST00895,Dipta Sha,vlanka@example.org,Kolkata,05-06-2026,,,Google Ads
+CUST00896,Aashi Cherian,bwarrior@example.org,Ahmedabad,10-02-2025,F,,Influencer
+CUST00897,Onveer Sood,qravel@example.net,Bengaluru,23/06/2025,Other,,Influencer
+CUST00898,Chavvi Patel,fmittal@example.org,Ahmedabad,19-11-2025,M,,Instagram Ads
+CUST00899,Isaac Babu,avikadakia@example.com,Pune,18-12-2024,,,Email
+CUST00900,Rajata Yohannan,gabrielmitra@example.com,Bengaluru,2025-12-23,Other,,Influencer
+CUST00901,Anthony Dada,michaelsaxena@example.com,Lucknow,27/12/2024,Other,48.0,Referral
+CUST00902,Xavier Jaggi,manya05@example.org,Lucknow,17-08-2025,Other,21.0,Referral
+CUST00903,Ojasvi Tandon,balhaar76@example.com,Delhi,24/11/2024,M,,Instagram Ads
+CUST00904,Vincent Bhat,samidiya@example.net,Pune,16/09/2025,M,58.0,Instagram Ads
+CUST00905,Urvashi Dada, ,Delhi,27-10-2024,Other,,Email
+CUST00906,Bhavna Handa,cpadmanabhan@example.org,Chennai,23-07-2025,Other,18.0,Influencer
+CUST00907,Upadhriti Deep,madhavi65@example.com,Chennai,12/09/2025,,28.0,Google Ads
+CUST00908,Sarthak Mandal,subramaniankai@example.org,Jaipur,2026-04-10,F,53.0,Organic Search
+CUST00909,Harrison Sagar,pmitter@example.org,Mumbai,02/02/2025,F,,Organic Search
+CUST00910,Jagrati Lal,nathan28@example.org,Pune,17/10/2025,F,,Google Ads
+CUST00911,Qushi Comar,jaikapur@example.com,Pune,15-04-2026,M,27.0,Referral
+CUST00912,Isha Batra,matthew89@example.net,Hyderabad,2025-03-16,M,25.0,Instagram Ads
+CUST00913,Raksha Shankar,cherianharsh@example.net,Kolkata,25/11/2024,M,60.0,Organic Search
+CUST00914,Oliver Dalal,janakidugar@example.net,Pune,2024-10-12,Other,24.0,Influencer
+CUST00915,Yashawini Tara,dubejanuja@example.com,Lucknow,2025-04-10,F,19.0,Google Ads
+CUST00916,Saksham Sarna,pahuja@example.com,Pune,24-04-2026,Other,50.0,Influencer
+CUST00917,Frederick Lata,oeshi53@example.org,Mumbai,15-05-2025,M,,Google Ads
+CUST00918,Vedant Devi,asachdev@example.com,Bengaluru,08-03-2026,,,Referral
+CUST00919,Ayushman Savant,advaithvarughese@example.org,Lucknow,29-07-2026,M,,Organic Search
+CUST00920,Neelima Gala,zbhat@example.org,Jaipur,2024-11-12,M,38.0,Organic Search
+CUST00921,Dalbir Venkatesh,oni68@example.com,Jaipur,2025-12-31,Other,53.0,Instagram Ads
+CUST00922,Hemangini Anand, ,Ahmedabad,13/02/2026,Other,,Google Ads
+CUST00923,Hemani Ravel,charvichad@example.org,Kolkata,06-02-2025,,,Email
+CUST00924,Jonathan Venkatesh,tanay18@example.net,Delhi,03/10/2025,,,Influencer
+CUST00925,Nathaniel Bajaj,zachariaaarna@example.org,Mumbai,24-04-2025,,55.0,Email
+CUST00926,Pahal Tiwari,bhasinkashish@example.com,Mumbai,2026-05-04,F,,Instagram Ads
+CUST00927,Jatin Batta,senchanchal@example.net,Kolkata,2025-12-07,Other,,Email
+CUST00928,Harinakshi Keer,inayamistry@example.com,Chennai,24/02/2026,,,Influencer
+CUST00929,Krishna Venkatesh,henrynarang@example.net,Delhi,05/01/2026,M,,Google Ads
+CUST00930,Suhani Chaudhari,pavanisabharwal@example.org,Delhi,05-11-2025,M,49.0,Google Ads
+CUST00931,Kalpit Soni,sanayabrahmbhatt@example.com,Lucknow,17/11/2024,F,57.0,Instagram Ads
+CUST00932,Zilmil Rana,wishi67@example.net,Jaipur,12-01-2026,,,Organic Search
+CUST00933,Omaja Gaba,yashasvidatta@example.com,Pune,14-07-2026,M,,Instagram Ads
+CUST00934,Yochana Wadhwa,kalatamanna@example.com,Mumbai,06/02/2026,Other,,Instagram Ads
+CUST00935,Kala Dani,hchoudhary@example.com,Delhi,2024-10-05,Other,,Organic Search
+CUST00936,Michael Dalal,dalaja54@example.com,Pune,2025-10-28,,,Email
+CUST00937,Lucky Sama,modybhanumati@example.org,Jaipur,27-08-2025,,28.0,Organic Search
+CUST00938,Aarnav Das,ekansh06@example.com,Ahmedabad,21/01/2025,,,Referral
+CUST00939,Geetika Purohit,wdeo@example.org,Bengaluru,2025-10-29,F,40.0,Email
+CUST00940,Shivani Sen,eshanachakraborty@example.net,Kolkata,10/09/2025,Other,,Organic Search
+CUST00941,Lila Kaul,inori@example.org,Bengaluru,03/01/2026,F,37.0,Email
+CUST00942,Arunima Chakrabarti,aryanmore@example.net,Pune,2026-08-02,F,38.0,Organic Search
+CUST00943,Reyansh Bera,vamakshithakkar@example.org,Kolkata,20-12-2025,,48.0,Referral
+CUST00944,Anirudh Maharaj,yatansawhney@example.org,Lucknow,07/12/2024,M,24.0,Referral
+CUST00945,Neelima Bath,vbajaj@example.com,Jaipur,15/04/2026,Other,,Organic Search
+CUST00946,Edhitha Raja,gavin11@example.net,Ahmedabad,2025-01-19,M,52.0,Referral
+CUST00947,Qadim Kumer,dubedamyanti@example.com,Bengaluru,11/01/2025,,57.0,Email
+CUST00948,Eshana Golla,bhardwajchanchal@example.com,Mumbai,13-01-2026,Other,,Organic Search
+CUST00949,Nitara Naik,keya10@example.org,Chennai,2024-11-22,Other,,Email
+CUST00950,Waida Trivedi,rcontractor@example.org,Chennai,03-03-2025,,,Email
+CUST00951,Dominic Sule,reddyvivaan@example.org,Delhi,29-04-2025,F,,Referral
+CUST00952,Yatin Dass,niharika71@example.net,Jaipur,24-03-2025,,,Email
+CUST00953,Kashvi Zachariah,yatanyogi@example.com,,07-09-2025,Other,33.0,Email
+CUST00954,Benjamin Agarwal,pmann@example.org,Pune,05-08-2026,,22.0,Organic Search
+CUST00955,Anjali Krishna,opanchal@example.org,Pune,12/09/2024,Other,,Google Ads
+CUST00956,Chakradev Edwin,mitalgaurav@example.com,Delhi,2025-11-07,F,,Organic Search
+CUST00957,Ati Sankaran,yamininadkarni@example.net,Kolkata,27-01-2026,M,35.0,Instagram Ads
+CUST00958,Sneha Mahajan,ekantaom@example.org,Pune,24/07/2026,F,,Instagram Ads
+CUST00959,Amol Deol,soniaayush@example.org,Mumbai,2025-08-09,Other,,Email
+CUST00960,Vrinda Ramaswamy,brahmbhattazaan@example.net,Mumbai,09-01-2026,F,54.0,Influencer
+CUST00961,Ira Puri,lila20@example.org,Lucknow,29-07-2025,Other,23.0,Influencer
+CUST00962,Sai Andra,anmolmand@example.net,Chennai,2025-08-11,,,Google Ads
+CUST00963,Rehaan Chana,timothy37@example.com,Mumbai,2026-07-07,Other,34.0,Organic Search
+CUST00964,Shaurya Amble,meghanachoudhry@example.com,Chennai,08-10-2024,M,,Email
+CUST00965,Onkar Hari,dhruvdave@example.net,Pune,2025-10-26,F,,Instagram Ads
+CUST00966,Vedant Virk,rehaan08@example.net,Lucknow,28-10-2024,M,60.0,Referral
+CUST00967,Aarnav Sane,naidurachana@example.com,Kolkata,13-03-2025,Other,,Email
+CUST00968,Warhi Pathak,kapurchampak@example.com,Jaipur,2025-03-28,,,Referral
+CUST00969,Diya Ahluwalia,vhayer@example.org,Hyderabad,2026-07-05,F,,Email
+CUST00970,Upkaar Sampath,krishronith@example.org,Kolkata,07/06/2026,Other,,Email
+CUST00971,Gunbir Bala,zsankaran@example.org,Chennai,07/05/2025,M,34.0,Referral
+CUST00972,Zashil Kota,solankiwilliam@example.com,Lucknow,12/11/2025,Other,19.0,Email
+CUST00973,Zinal Khalsa,sarnagirish@example.net,Delhi,04-05-2026,F,,Referral
+CUST00974,Frederick Bhat,purohitdhriti@example.net,Mumbai,30-07-2025,F,59.0,Influencer
+CUST00975,David Sathe,mitrarachana@example.org,Kolkata,28-10-2024,Other,,Google Ads
+CUST00976,Charles Menon,gratti@example.net,Lucknow,24-11-2024,Other,,Google Ads
+CUST00977,Advaith Setty,yshetty@example.com,Kolkata,07/03/2026,F,19.0,Instagram Ads
+CUST00978,Harinakshi Bal,vvarughese@example.net,Hyderabad,07/06/2026,F,,Influencer
+CUST00979,Advik Bir,jonathanupadhyay@example.com,Delhi,28/01/2025,Other,54.0,Instagram Ads
+CUST00980,Sai Grewal,lakshbasu@example.org,Jaipur,25-05-2025,,49.0,Google Ads
+CUST00981,Yochana Parmar,madhav27@example.com,Hyderabad,12-12-2024,Other,,Google Ads
+CUST00982,Jyoti Anand,daksheshkhanna@example.net,Hyderabad,20/11/2025,Other,,Google Ads
+CUST00983,Pahal Padmanabhan,saijaggi@example.org,Delhi,24/04/2026,Other,46.0,Referral
+CUST00984,Unni Narula,chandani65@example.org,Ahmedabad,15-05-2025,,,Email
+CUST00985,Warhi Kanda,kapoorvictor@example.com,Kolkata,2024-11-26,Other,53.0,Instagram Ads
+CUST00986,Vasana Narula,zjha@example.org,Hyderabad,05/12/2025,Other,,Email
+CUST00987,Janani Anne,parmarayushman@example.net,Bengaluru,29-04-2026,,,Google Ads
+CUST00988,Ria Hayer,caleb03@example.org,Bengaluru,03-12-2024,Other,,Organic Search
+CUST00989,Adweta Ghosh,yatan23@example.org,Mumbai,2025-04-04,,,Instagram Ads
+CUST00990,Harrison Bail,ladlichoudhry@example.com,Ahmedabad,2025-01-16,Other,,Referral
+CUST00991,Tanmayi Khatri,kashish28@example.net,Pune,18-07-2026,,,Google Ads
+CUST00992,Jagat Dhawan,ranveerhanda@example.net,Ahmedabad,08-06-2026,F,29.0,Organic Search
+CUST00993,Eesha Sanghvi,chakradhargulati@example.net,Delhi,11/06/2025,,49.0,Organic Search
+CUST00994,Falak Kota,mammenjonathan@example.net,Jaipur,11/04/2025,,27.0,Referral
+CUST00995,Shaurya Bumb,kbhattacharyya@example.net,Hyderabad,2026-08-10,F,,Influencer
+CUST00996,Wishi Venkataraman,ugola@example.net,Lucknow,18-06-2025,M,54.0,Organic Search
+CUST00997,Warda Som,nandini90@example.org,Hyderabad,2025-06-08,M,,Email
+CUST00998,Siya Keer,tkamdar@example.com,Mumbai,17-02-2025,M,27.0,Instagram Ads
+CUST00999,Kavya Kumar,desaifrado@example.com,Ahmedabad,13/06/2026,Other,,Instagram Ads
+CUST01000,Victor Barman,nvala@example.com,Lucknow,29-07-2025,Other,,Email
+CUST01001,Rachana Rege,widisha54@example.com,Delhi,15-07-2025,M,,Instagram Ads
+CUST01002,Vivaan Lanka,parmerfitan@example.com,Mumbai,29-09-2024,,34.0,Google Ads
+CUST01003,Aradhana Kari,daniekbal@example.com,Mumbai,11/05/2026,F,,Email
+CUST01004,Gauri Hegde,zashil44@example.org,Delhi,09-10-2024,,37.0,Referral
+CUST01005,Advika Anand,baghyawati56@example.com,Mumbai,02-02-2026,F,,Referral
+CUST01006,Urmi Vala,mitalikari@example.org,Lucknow,26-04-2026,,57.0,Organic Search
+CUST01007,Urvi Kaur,vshenoy@example.org,Kolkata,14-02-2026,Other,,Email
+CUST01008,Pushti Sahni,revasengupta@example.net,Delhi,2025-04-25,M,45.0,Organic Search
+CUST01009,Kabir Mody, ,Delhi,03/10/2024,,37.0,Influencer
+CUST01010,Netra Yogi,eshana90@example.net,Pune,21/02/2025,M,,Influencer
+CUST01011,Mitesh Narayanan,nraj@example.com,Jaipur,2026-03-31,M,,Referral
+CUST01012,Raghav Soman,narasimhansiya@example.net,Lucknow,27/10/2024,M,,Google Ads
+CUST01013,Onveer Chawla,azadsuresh@example.org,Kolkata,2026-06-18,,,Influencer
+CUST01014,Libni Mander,virajmanne@example.net,Ahmedabad,24-01-2025,,,Google Ads
+CUST01015,Dakshesh Pillay,gargeta@example.com,Delhi,2025-09-24,Other,,Influencer
+CUST01016,Kai Yadav,vsridhar@example.org,Bengaluru,2025-06-20,M,,Email
+CUST01017,Kalpit Jha,rachana72@example.net,Lucknow,19/06/2025,Other,,Email
+CUST01018,Samaksh Thakkar,mmajumdar@example.org,Kolkata,31-10-2025,M,18.0,Instagram Ads
+CUST01019,Devansh Rastogi,falguniswaminathan@example.com,Hyderabad,2026-08-26,F,27.0,Organic Search
+CUST01020,Gavin Mani,spalan@example.net,Jaipur,11-08-2025,Other,,Organic Search
+CUST01021,Parth Sagar,praneelsankaran@example.com,Mumbai,2026-04-05,F,,Organic Search
+CUST01022,Girish Ramaswamy,khatrinakul@example.com,Ahmedabad,2025-06-15,F,43.0,Referral
+CUST01023,Ekalinga Kalla,wsabharwal@example.net,Mumbai,2026-06-09,,,Organic Search
+CUST01024,Faraj Cheema, ,Lucknow,08-12-2024,Other,,Influencer
+CUST01025,Turvi Bala,shenoylakshmi@example.com,Lucknow,08-02-2025,,21.0,Organic Search
+CUST01026,Mekhala Barad,krishnaishwar@example.net,Chennai,03-03-2026,Other,,Instagram Ads
+CUST01027,Ucchal Sundaram,fbir@example.net,Lucknow,04/07/2026,Other,45.0,Google Ads
+CUST01028,Logan Sinha,neel20@example.net,Hyderabad,29/12/2025,,,Influencer
+CUST01029,Jeet Warrior,eganguly@example.net,Ahmedabad,23-11-2024,Other,,Email
+CUST01030,Mitesh Sastry,pranav30@example.net,Chennai,15-03-2026,F,36.0,Email
+CUST01031,Champak Virk,ramakrishnandarika@example.com,Delhi,30/09/2025,F,,Organic Search
+CUST01032,Chanakya Purohit,zaidprasad@example.org,Hyderabad,19/10/2024,M,,Referral
+CUST01033,Oviya Bala,nazarethrehaan@example.net,Chennai,02/02/2025,F,50.0,Instagram Ads
+CUST01034,Gopal Ganesh, ,Kolkata,06/01/2026,F,,Referral
+CUST01035,Ekantika Gupta,meghasangha@example.org,Chennai,28/11/2024,Other,50.0,Email
+CUST01036,Ishanvi Naik,alexanderratti@example.net,Ahmedabad,2025-02-26,M,,Influencer
+CUST01037,Simon Shanker,dominicmallick@example.net,Mumbai,27-04-2025,M,28.0,Google Ads
+CUST01038,Ekalinga Kamdar,xmitra@example.net,Delhi,05/12/2025,,49.0,Google Ads
+CUST01039,Onveer Krishnamurthy,nairlipika@example.net,Chennai,06-09-2025,F,,Organic Search
+CUST01040,Gaurangi Gill,vasatika15@example.org,Hyderabad,2026-07-09,,50.0,Instagram Ads
+CUST01041,Lavanya Vaidya,yahviarya@example.org,Chennai,24/11/2025,,60.0,Google Ads
+CUST01042,Dayamai Khalsa,nkohli@example.org,Kolkata,27-09-2024,F,,Organic Search
+CUST01043,Wishi Minhas,maxprashad@example.org,Chennai,25-10-2024,,18.0,Instagram Ads
+CUST01044,Sachi Narasimhan,arunimanadkarni@example.net,Chennai,18/12/2025,F,43.0,Email
+CUST01045,Oeshi Mani,karnikgarima@example.com,Delhi,01-04-2026,M,,Email
+CUST01046,Yuvraj Kapadia,uverma@example.org,Jaipur,05-03-2025,,,Email
+CUST01047,Dhruv Swamy,hanscharles@example.net,Chennai,27-07-2025,M,51.0,Email
+CUST01048,Jeremiah Chand,samarthkeer@example.net,Ahmedabad,27/08/2026,,,Google Ads
+CUST01049,Deepa Gala,yashsamra@example.org,Mumbai,07/11/2024,Other,,Google Ads
+CUST01050,Bhavika Sen,anitasrivastava@example.org,Jaipur,2025-11-22,Other,28.0,Instagram Ads
+CUST01051,Mitali Purohit,urishillasastry@example.com,Lucknow,28-07-2026,Other,50.0,Email
+CUST01052,Nachiket Subramaniam,rajprisha@example.org,Chennai,2025-09-10,Other,59.0,Organic Search
+CUST01053,Michael Gill,lajita74@example.com,Lucknow,12/03/2026,,33.0,Referral
+CUST01054,Ekbal Nath,upasnahayre@example.org,Pune,03/04/2025,F,51.0,Instagram Ads
+CUST01055,Agastya Tella,vyanjana66@example.com,Jaipur,03/07/2026,Other,,Organic Search
+CUST01056,Leena Suri,ekavir60@example.org,Mumbai,2026-08-11,F,46.0,Referral
+CUST01057,Rishi Sarin,ijaya87@example.net,Jaipur,16-06-2025,,,Email
+CUST01058,Lekha Samra,xaviersridhar@example.org,Ahmedabad,20/01/2026,,44.0,Google Ads
+CUST01059,Ayaan Divan,tamanna24@example.org,Delhi,07-07-2026,,50.0,Email
+CUST01060,Advik Dada,rajagopalanmitali@example.net,Ahmedabad,2025-11-19,F,,Referral
+CUST01061,Zarna Gulati,bgandhi@example.com,Lucknow,2025-11-08,M,,Instagram Ads
+CUST01062,Darika Sabharwal,choprahemangini@example.org,Delhi,23-01-2026,Other,,Referral
+CUST01063,Mitali Morar,gangulyvyanjana@example.org,Ahmedabad,24/03/2025,F,,Instagram Ads
+CUST01064,Omaja Mani,lgarde@example.com,Pune,20/11/2024,,,Instagram Ads
+CUST01065,Rudra Sur,yadavichoudhary@example.com,Kolkata,2025-01-24,Other,,Organic Search
+CUST01066,Quincy Iyer,goswamirehaan@example.com,Lucknow,25-10-2025,F,,Email
+CUST01067,Ridhi Chopra,fariqmemon@example.org,Delhi,20/08/2026,Other,,Organic Search
+CUST01068,Devansh Oommen,keervanya@example.com,Kolkata,2025-06-10,M,,Organic Search
+CUST01069,Aditya Bhat,abhimanyu90@example.org,Pune,09-01-2026,F,,Influencer
+CUST01070,Keya Venkatesh,vedika75@example.net,Mumbai,10-02-2025,M,57.0,Influencer
+CUST01071,Hemal Murty,jalsarastogi@example.com,Hyderabad,18-07-2025,M,52.0,Instagram Ads
+CUST01072,Ganga Chaudhry,shanneelima@example.net,Hyderabad,25/11/2025,,,Organic Search
+CUST01073,Atharv Das,yuvraj57@example.net,Bengaluru,06-05-2026,M,,Instagram Ads
+CUST01074,Yutika Sachdev,aarushnagy@example.org,Chennai,19-01-2026,M,24.0,Referral
+CUST01075,Eshana Sawhney,vedhikaratta@example.net,Delhi,2025-12-12,M,44.0,Instagram Ads
+CUST01076,Ijaya Sangha,uchaudhry@example.com,Chennai,27-11-2025,M,,Google Ads
+CUST01077,Luke Venkatesh,dattawidisha@example.org,Chennai,11/04/2025,M,33.0,Organic Search
+CUST01078,Om Sehgal,subramaniamwridesh@example.org,Jaipur,16-04-2025,M,,Influencer
+CUST01079,Hitesh Saran,dyaleta@example.com,Mumbai,11/02/2025,,,Influencer
+CUST01080,Aarini Soni,deshpandevyanjana@example.org,Mumbai,17-03-2026,F,,Instagram Ads
+CUST01081,Udarsh Bhattacharyya,krishna68@example.com,Jaipur,07-04-2026,F,28.0,Influencer
+CUST01082,Aashi D’Alia,gagan11@example.com,Jaipur,17/04/2026,M,,Email
+CUST01083,Jack Pillai,dhritirai@example.net,Bengaluru,2026-02-27,,,Referral
+CUST01084,David Wason,lipikasampath@example.com,Hyderabad,24-02-2026,Other,52.0,Referral
+CUST01085,Zinal Kapadia,ranaaditya@example.net,Kolkata,2026-03-21,F,,Google Ads
+CUST01086,Maanav Minhas,xalakshah@example.org,Jaipur,18-05-2026,Other,,Email
+CUST01087,Bakhshi Nagarajan,yadavi14@example.net,,19/11/2025,Other,,Instagram Ads
+CUST01088,Warda Manne,zbhargava@example.com,Delhi,30-10-2025,M,18.0,Email
+CUST01089,Umang Ben,vinayaramanathan@example.com,Kolkata,2024-12-30,,52.0,Email
+CUST01090,Anthony Ramanathan,pahal75@example.com,Mumbai,21-08-2026,,,Influencer
+CUST01091,Barkha Hayer,ichatterjee@example.com,Kolkata,20/06/2025,M,41.0,Organic Search
+CUST01092,Daksha Shankar,lakshsathe@example.net,Hyderabad,2026-03-07,Other,40.0,Instagram Ads
+CUST01093,Shaurya Kamdar,adityapathak@example.net,Pune,25-08-2025,F,,Instagram Ads
+CUST01094,Manbir Puri,dganguly@example.org,Ahmedabad,21/05/2026,F,,Instagram Ads
+CUST01095,Praneel Ben,varmahamsini@example.net,Lucknow,26/05/2025,F,60.0,Instagram Ads
+CUST01096,Netra Konda,daniwridesh@example.com,,21-07-2025,F,54.0,Influencer
+CUST01097,Keya Chakraborty,rraja@example.net,Pune,29-08-2025,M,,Email
+CUST01098,Advay Dar, ,Jaipur,26-12-2025,,45.0,Referral
+CUST01099,Arin Srinivasan,girindra92@example.com,Kolkata,17/12/2025,,51.0,Email
+CUST01100,Chanchal Dass,nandadevansh@example.net,Bengaluru,2025-08-26,,38.0,Organic Search
+CUST01101,Nidra Bahri,yyadav@example.net,Chennai,2026-06-28,M,,Google Ads
+CUST01102,Sarthak Dalal,pranitahluwalia@example.net,Kolkata,29-08-2025,F,,Instagram Ads
+CUST01103,Jason Baral,samueledwin@example.org,Mumbai,31-07-2025,,,Referral
+CUST01104,Frado Dash, ,Mumbai,2025-10-21,Other,39.0,Instagram Ads
+CUST01105,Yuvraj Mital,venkataramanchaaya@example.net,,16-08-2026,M,55.0,Instagram Ads
+CUST01106,Vritti Munshi,yashvi31@example.net,,2025-10-01,M,,Instagram Ads
+CUST01107,Balhaar Guha,chandanikale@example.org,Lucknow,25/04/2026,M,21.0,Referral
+CUST01108,Jagrati Mall,pahalborde@example.net,,19/11/2025,,56.0,Organic Search
+CUST01109,Nihal Ratta,qchacko@example.net,Ahmedabad,14/03/2025,M,,Influencer
+CUST01110,Samar Bobal,reyansh59@example.net,Lucknow,15/07/2025,M,22.0,Influencer
+CUST01111,Oni Dube,radha60@example.net,Jaipur,2025-12-22,,,Google Ads
+CUST01112,Jeet Wali,raydominic@example.com,Delhi,2025-03-09,M,,Influencer
+CUST01113,Gauri Mahajan,upkaarmahal@example.org,Chennai,16-12-2025,F,,Referral
+CUST01114,Kritika Cheema,gilldamini@example.net,Bengaluru,21/11/2024,F,50.0,Organic Search
+CUST01115,Girish Wadhwa,baghyawati84@example.net,Hyderabad,26/04/2026,,30.0,Referral
+CUST01116,Onkar Nadkarni,wgolla@example.net,Ahmedabad,2024-11-22,,,Influencer
+CUST01117,Vansha Datta,aditya82@example.net,Kolkata,13/01/2026,M,,Google Ads
+CUST01118,Amara Bera,zaid96@example.net,Hyderabad,2024-12-11,,,Email
+CUST01119,Irya Sidhu,anya68@example.net,Kolkata,07/08/2025,F,,Instagram Ads
+CUST01120,Dalaja Chahal,niharika51@example.net,Chennai,2026-06-08,M,46.0,Email
+CUST01121,Girik Gandhi,chadbhavika@example.net,Chennai,08-11-2024,M,36.0,Google Ads
+CUST01122,Panini Trivedi,varshatank@example.net,Delhi,13/07/2026,F,19.0,Referral
+CUST01123,Nidra Atwal,abhimanyusandal@example.net,Bengaluru,2026-01-18,F,,Google Ads
+CUST01124,Yash Wable,senom@example.net,Ahmedabad,01/10/2025,Other,,Email
+CUST01125,Parth Borde,kiaan85@example.org,Mumbai,2026-07-13,F,,Email
+CUST01126,Onkar Prakash,nigamzaid@example.net,Chennai,13/07/2025,F,,Influencer
+CUST01127,Bina Mistry,qmemon@example.org,Hyderabad,17-05-2026,Other,38.0,Instagram Ads
+CUST01128,Teerth Mody,shethvinaya@example.org,Pune,13-09-2024,,,Email
+CUST01129,Falguni Misra,hredhaan05@example.net,Mumbai,26-05-2025,,,Organic Search
+CUST01130,Aditya Chaudhuri,mswamy@example.org,Ahmedabad,24-01-2025,Other,,Organic Search
+CUST01131,Nirja Dasgupta,jamble@example.net,Lucknow,27/09/2025,M,,Google Ads
+CUST01132,Megha Prasad,janya62@example.net,Hyderabad,11/03/2025,,,Influencer
+CUST01133,Reva Sarna, ,Delhi,2026-04-19,Other,40.0,Influencer
+CUST01134,Rushil Choudhry,bhavanibaria@example.org,Ahmedabad,2025-07-21,Other,,Organic Search
+CUST01135,Azad Dyal,varenyalata@example.org,Ahmedabad,23/06/2025,,46.0,Referral
+CUST01136,Joshua Nair,uthaker@example.net,Mumbai,12-07-2025,M,50.0,Referral
+CUST01137,Karan Choudhary,bailjonathan@example.org,Mumbai,2026-05-12,Other,,Google Ads
+CUST01138,Warjas Ben,pushti90@example.com,Chennai,17-05-2025,Other,56.0,Email
+CUST01139,Vedika Butala,nkota@example.org,Jaipur,23-08-2025,M,,Organic Search
+CUST01140,Zaid Mand,lallyug@example.net,Lucknow,19/02/2026,M,50.0,Organic Search
+CUST01141,Urvi Chauhan,ranbirdixit@example.org,Hyderabad,2026-04-25,F,,Email
+CUST01142,Balvan Mahal,madhavsandhu@example.org,Chennai,07/12/2024,Other,,Google Ads
+CUST01143,Charan Rai,tvohra@example.net,Ahmedabad,29/11/2025,M,54.0,Referral
+CUST01144,Tristan Nayar,dsrinivas@example.net,Bengaluru,11-12-2025,Other,,Email
+CUST01145,Daksha Choudhary,januja45@example.net,Jaipur,16/07/2025,M,20.0,Google Ads
+CUST01146,Champak Gopal,acharyacharles@example.net,Lucknow,10/07/2025,,,Google Ads
+CUST01147,Bhavika Sodhi,harrison62@example.com,Mumbai,02/03/2026,F,,Email
+CUST01148,Gaurika Modi,chatterjeeagastya@example.net,Mumbai,26/07/2026,F,,Instagram Ads
+CUST01149,Garima Patel,kamya34@example.org,Hyderabad,2025-10-14,,,Email
+CUST01150,Hitesh De,barmanrayaan@example.org,Mumbai,06-11-2025,Other,,Organic Search
+CUST01151,Falan Oza,urvi38@example.net,Delhi,01/02/2026,,,Email
+CUST01152,Rehaan Sahota,idika57@example.net,Kolkata,2024-12-31,F,,Organic Search
+CUST01153,Ekansh Subramanian,gviswanathan@example.org,Ahmedabad,10-02-2026,Other,,Referral
+CUST01154,Kai Mann,bhatranveer@example.net,Bengaluru,2025-01-10,,43.0,Influencer
+CUST01155,Yochana Borde,rakshaupadhyay@example.com,Lucknow,21/04/2026,,20.0,Referral
+CUST01156,Nandini Magar,qarinaggarwal@example.org,Ahmedabad,21-10-2025,Other,,Google Ads
+CUST01157,Yochana Shah,chavvi34@example.net,Lucknow,2025-10-28,,60.0,Email
+CUST01158,Onveer Kapur,wallawazir@example.com,Mumbai,24-03-2025,M,,Email
+CUST01159,Arunima Deol,charan33@example.net,Pune,10-10-2024,M,,Organic Search
+CUST01160,Jyoti Nair, ,Mumbai,04-12-2024,,,Organic Search
+CUST01161,Ekta Bhandari,parekhtheodore@example.net,Delhi,20/06/2026,M,,Organic Search
+CUST01162,Aahana Babu,rajaaarini@example.net,Kolkata,07/08/2026,,34.0,Email
+CUST01163,Riya Kannan,amruta39@example.net,Chennai,2025-12-12,,22.0,Influencer
+CUST01164,Nachiket Sehgal,radhapillay@example.org,Hyderabad,16-04-2026,,35.0,Google Ads
+CUST01165,Warhi Golla,lgoyal@example.org,Lucknow,2026-06-23,Other,43.0,Instagram Ads
+CUST01166,Baghyawati Bail,nicholas26@example.net,Bengaluru,27-10-2025,F,29.0,Email
+CUST01167,Luke Bora,dkorpal@example.net,Jaipur,2025-11-23,M,51.0,Organic Search
+CUST01168,Laksh Arora,purohitleena@example.org,Pune,11-08-2026,M,42.0,Google Ads
+CUST01169,Caleb Deo,fiyazloyal@example.org,Hyderabad,30/11/2024,M,,Google Ads
+CUST01170,Aditya Cherian,frederick32@example.com,Mumbai,19-07-2026,M,60.0,Email
+CUST01171,Nihal Mohanty,varenya23@example.org,Bengaluru,2026-03-12,M,38.0,Influencer
+CUST01172,Jatin Bail,chauhanchaman@example.org,Jaipur,2025-10-08,,31.0,Referral
+CUST01173,Lucky Agarwal,arjunkaran@example.com,Delhi,15/09/2025,Other,,Google Ads
+CUST01174,Bhavini Kara,fchowdhury@example.org,Pune,2025-06-16,Other,,Referral
+CUST01175,Harsh Manda,faraj95@example.org,Ahmedabad,26-08-2026,,52.0,Referral
+CUST01176,Caleb Dora,priyawali@example.com,Lucknow,2025-05-29,,,Google Ads
+CUST01177,Mason Mitra,ijaya14@example.com,Chennai,17-11-2025,,,Instagram Ads
+CUST01178,Faraj Agate,manannagarajan@example.org,Lucknow,01-01-2026,F,18.0,Instagram Ads
+CUST01179,Ekalinga Chowdhury,jmallick@example.org,Mumbai,20-06-2025,,57.0,Instagram Ads
+CUST01180,Qabil Rajan,eiravati76@example.com,Chennai,2025-05-02,F,31.0,Google Ads
+CUST01181,Gauri Devi,leelasahota@example.net,Lucknow,24-01-2026,,39.0,Referral
+CUST01182,Victor Rajagopalan,samatheodore@example.net,Bengaluru,04/09/2025,,36.0,Google Ads
+CUST01183,Aarnav Jani,patilurvi@example.org,Chennai,13-11-2024,F,60.0,Email
+CUST01184,Ikshita Patel,chaitalysharma@example.org,Hyderabad,07-07-2026,,,Email
+CUST01185,Xavier Kade,dakshdevi@example.org,Mumbai,2026-05-06,M,,Instagram Ads
+CUST01186,Krishna Bal,dprabhu@example.net,Delhi,05-08-2026,F,55.0,Google Ads
+CUST01187,Vansha Dugar,dinjasmit@example.org,Mumbai,27-11-2024,,30.0,Organic Search
+CUST01188,Advik Saha,qabilsinghal@example.net,Lucknow,2024-11-07,Other,58.0,Referral
+CUST01189,Upma Sabharwal, ,Mumbai,21/12/2024,Other,,Organic Search
+CUST01190,Oscar Thakur,advayrandhawa@example.com,Jaipur,02/01/2025,,48.0,Organic Search
+CUST01191,Aarna Thaker,utkarsh62@example.com,Mumbai,14/01/2026,Other,27.0,Referral
+CUST01192,Jeremiah Kakar,obhalla@example.com,Ahmedabad,13/08/2026,Other,,Instagram Ads
+CUST01193,Upadhriti Sood,nidhi62@example.org,Delhi,22/01/2025,F,30.0,Instagram Ads
+CUST01194,Robert Madan,chawlafaras@example.com,Chennai,13-04-2026,,,Email
+CUST01195,Ayaan Khatri,nicholas81@example.org,Kolkata,20/11/2025,M,20.0,Organic Search
+CUST01196,Dayamai Guha,bachittarkhosla@example.com,Delhi,11-02-2025,,,Email
+CUST01197,Veda Bath,murtygirik@example.com,Jaipur,12/11/2024,Other,,Organic Search
+CUST01198,Barkha Rao,divyaraman@example.net,Hyderabad,18-09-2024,M,,Referral
+CUST01199,Gunbir Narula,gthakur@example.net,Bengaluru,26-05-2025,F,47.0,Referral
+CUST01200,Arjun Raja,sbarad@example.org,Lucknow,2026-04-16,F,,Organic Search
+CUST00165,Anvi Bhalla,yashica14@example.com,Mumbai,2025-07-27,Other,53.0,Influencer
+CUST01062,Darika Sabharwal,choprahemangini@example.org,Delhi,23-01-2026,Other,,Referral
+CUST00387,Ayaan Pandey,raghavtailor@example.net,Delhi,28/04/2025,F,54.0,Influencer
+CUST00867,Warinder Seshadri,kalashanker@example.org,Jaipur,2024-10-02,Other,,Referral
+CUST00340,Charles Randhawa,vivaan61@example.net,Chennai,06/06/2025,F,56.0,Organic Search
+CUST00875,Ria Bera,manthanbhagat@example.org,Jaipur,29/08/2026,,46.0,Referral
+CUST00518,Krisha Radhakrishnan,faras84@example.com,Mumbai,2025-03-20,,,Organic Search
+CUST00619,Vinaya Rana,yatinkibe@example.org,Jaipur,2025-08-24,M,,Email
+CUST01026,Mekhala Barad,krishnaishwar@example.net,Chennai,03-03-2026,Other,,Instagram Ads
+CUST01092,Daksha Shankar,lakshsathe@example.net,Hyderabad,2026-03-07,Other,40.0,Instagram Ads
+CUST00784,Arunima Hayre,chackosanaya@example.net,Hyderabad,17-12-2025,M,,Instagram Ads
+CUST00165,Anvi Bhalla,yashica14@example.com,Mumbai,2025-07-27,Other,53.0,Influencer
+CUST00631,Indira Pant,warinder84@example.org,Chennai,2025-01-03,Other,34.0,Referral
+CUST00843,Amara Mangat,aahanakeer@example.com,Ahmedabad,12-12-2025,F,,Organic Search
+CUST00183,Hardik Nayak,lakshbarad@example.com,Mumbai,2025-02-20,M,,Referral
+CUST00224,Bhavya Borah,cthaman@example.net,,21/10/2025,F,,Instagram Ads
+CUST01173,Lucky Agarwal,arjunkaran@example.com,Delhi,15/09/2025,Other,,Google Ads
+CUST00706,Darsh Solanki,charanmanne@example.net,Lucknow,18-04-2025,,40.0,Referral
+CUST00293,Frederick Merchant,ethanbutala@example.com,Mumbai,07/11/2025,,32.0,Instagram Ads
+CUST00551,Ishani Dugal,darfarhan@example.net,Kolkata,2025-02-24,Other,,Instagram Ads
+CUST00430,Chanchal Chokshi,vbhatt@example.com,Hyderabad,22/12/2025,F,52.0,Organic Search
+CUST00816,Vamakshi Pillai,agastyaswamy@example.net,Bengaluru,2025-01-25,F,,Email
+CUST00631,Indira Pant,warinder84@example.org,Chennai,2025-01-03,Other,34.0,Referral
+CUST00014,Zayan Apte,yadavamara@example.net,Delhi,13/06/2025,Other,,Referral
+CUST00345,Nisha Savant,gabrielchaudhry@example.org,Delhi,14/02/2026,F,,Organic Search
